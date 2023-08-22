@@ -1,5 +1,10 @@
 # A Path to Open, Inclusive, and Collaborative Science for Librarians
 
+## Authors
+
+- [Irene Vazano](https://github.com/4iro)
+- [Jesica Formoso](https://github.com/JFormoso)
+
 ## Description
 
 This 3-hour lesson is organized into three main sections covering: open, collaborative, and inclusive science; FAIR and CARE principles; and Latin American initiatives and practices.
