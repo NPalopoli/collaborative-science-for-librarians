@@ -1,5 +1,5 @@
 ---
-title: "Second Episode"
+title: "Open, collaborative, and inclusive science"
 teaching: 40
 exercises: 2
 ---
@@ -12,7 +12,8 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+After attending this training, participants will be able to:
+
+- Identify the linguistic, socioeconomic, and disability-related barriers that marginalized communities face on an open scientific approach.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
