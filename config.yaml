@@ -11,29 +11,29 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'A Path to Open, Inclusive, and Collaborative Science for Librarians' # FIXME
+title: 'A Path to Open, Inclusive, and Collaborative Science for Librarians'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created:
 
 # Comma-separated list of keywords for the lesson
-keywords: 'Open access, open science, open data, open educational resources, Spanish-speaking communities' # FIXME
+keywords: 'Open access, open science, open data, open educational resources, Spanish-speaking communities'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha' # FIXME
+life_cycle: 'pre-alpha'
 
-# License of the lesson
+# License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-md' # FIXME
+source: 'https://github.com/carpentries/workbench-template-md'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'team@carpentries.org'
 
 # Navigation ------------------------------------------------
 #
@@ -61,6 +61,8 @@ contact: 'team@carpentries.org' # FIXME
 episodes:
 - introduction.md
 - open-science.md
+- care-fair-principles.md
+- latin-american-iniciatives.md
 
 # Information for Learners
 learners:
