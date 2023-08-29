@@ -1,5 +1,5 @@
 ---
-title: 'care-fair-principles.md'
+title: 'How Accessibility, FAIR, and CARE principles can help overcome barriers'
 teaching: 10
 exercises: 2
 ---
