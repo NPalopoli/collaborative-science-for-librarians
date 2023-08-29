@@ -1,5 +1,5 @@
 ---
-title: 'latin-american-iniciatives.md'
+title: 'Latin American Iniciatives'
 teaching: 10
 exercises: 2
 ---
