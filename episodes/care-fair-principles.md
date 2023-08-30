@@ -6,14 +6,16 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
+- How do the accessibility of digital resources and implementation of the FAIR and CARE principles enhance the involvement of marginalized communities in the open science framework?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Explain how the accessibility of digital resources enhances the implementation of open science practices
+- Define how the FAIR principles are used to guide open data practices 
+- Describe how the CARE principles provide a framework that supports marginalized individuals and communities in regaining control over their materials
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
