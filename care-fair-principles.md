@@ -48,32 +48,21 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Can you do it?
+## Exercise: Multiple choice
 
-What is the output of this command?
+Which characteristics ensure that data can be easily located and accessed within a searchable resource?
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
-
-
-## Challenge 2: how do you nest solutions within challenge blocks?
+A) Data are assigned a unique and persistent identifier.
+B) Data are described with rich metadata.
+C) Data are locked in a secure vault.
+D) Data are kept offline and inaccessible to others.
 
 :::::::::::::::::::::::: solution 
 
-You can add a line with at least three colons and a `solution` tag.
+A and B are correct
 
 :::::::::::::::::::::::::::::::::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures
