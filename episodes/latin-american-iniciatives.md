@@ -6,7 +6,7 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do Latin American initiatives apply best practices for more inclusive research for non-native English speakers?
+- Which open practices do Latin American initiatives apply to promote an inclusive research environment for non-native English speakers?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -15,8 +15,8 @@ exercises: 2
 After attending this training, participants will be able to:
 
 - Identify Latin American initiatives that have successfully promoted inclusive research practices for non-native English speakers.
-- Describe the best practices that Latin American initiatives are employing to create a more inclusive research environment.
-- Assess how they contribute to increased participation, knowledge exchange, and cross-cultural collaboration.
+- Describe the open practices that Latin American initiatives are employing to create a more inclusive research environment.
+- Assess how they contribute to increase participation, knowledge exchange, and cross-cultural collaboration.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

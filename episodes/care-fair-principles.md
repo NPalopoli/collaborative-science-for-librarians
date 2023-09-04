@@ -6,11 +6,13 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do the accessibility of digital resources and the implementation of the FAIR and CARE principles can enhance the involvement of marginalized communities in the open science framework?
+- How can the accessibility of digital resources and the FAIR and CARE principles promote the involvement of marginalized communities in the open science framework?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
+
+After completing this episode, participants should be able to:
 
 - Explain how the accessibility of digital resources enhances the implementation of open science practices
 - Define how the FAIR principles are used to guide open data practices 

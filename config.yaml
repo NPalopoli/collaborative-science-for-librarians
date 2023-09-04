@@ -14,10 +14,10 @@ carpentry: 'incubator'
 title: 'A Path to Open, Inclusive, and Collaborative Science for Librarians'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created:
+created: '2023-08-01'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'Open access, open science, open data, open educational resources, Spanish-speaking communities'
+keywords: 'open access, open science, open data, open educational resources, spanish-speaking communities'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
