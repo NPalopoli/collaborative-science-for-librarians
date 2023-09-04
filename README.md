@@ -14,17 +14,17 @@ We will introduce open science concepts and principles, with emphasis on applyin
 
 Open access, open science, open data, open educational resources, spanish-speaking communities.
 
-## rendered version of the lesson
+## Rendered version of the lesson
 
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
 
 Version: pre-alpha
 
-## contact information
+## Contact information
 
-If you have any questions, contact [@Airo](https://github.com/4iro)
+If you have any questions, contact Irene Vazano at [irene.vazano@gmail.com](mailto:irene.vazano@gmail.com)
 
-## contributing information 
+## Contributing information 
 
 Follow the [Contributing](./CONTRIBUTING.md) steps to know how to get involved and make an impact on the lesson.
 
