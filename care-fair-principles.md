@@ -1,5 +1,5 @@
 ---
-title: 'How Accessibility, FAIR, and CARE principles can help overcome barriers'
+title: 'Digital accessibility, FAIR, and CARE principles'
 teaching: 40
 exercises: 2
 ---
