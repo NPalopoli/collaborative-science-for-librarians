@@ -48,32 +48,26 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Can you do it?
+## Excercise: Exit routes
 
-What is the output of this command?
 
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
+Which exit routes could mitigate the challenges faced by open science practices in Latin America?
 
 :::::::::::::::::::::::: solution 
 
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
+Exit routes:
+
+- Collaborative infrastructures, for example, repositories.
+- Communities of practice.
+- Multilingualism (promoting translation).
+- Interculturality.
+- Bibliographic diversity.
+- Cultural change in science.
+- Replacing Impact Factor with Social Relevance.
+- Green and Diamond routes.
 
 :::::::::::::::::::::::::::::::::
 
-
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Figures
