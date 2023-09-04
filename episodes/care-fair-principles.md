@@ -1,12 +1,12 @@
 ---
 title: 'How Accessibility, FAIR, and CARE principles can help overcome barriers'
-teaching: 10
+teaching: 40
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do the accessibility of digital resources and implementation of the FAIR and CARE principles can enhance the involvement of marginalized communities in the open science framework?
+- How do the accessibility of digital resources and the implementation of the FAIR and CARE principles can enhance the involvement of marginalized communities in the open science framework?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
