@@ -2,18 +2,19 @@
 site: sandpaper::sandpaper_site
 ---
 
+Welcome to *A Path to Open, Inclusive, and Collaborative Science for Librarians* training. 
 
-The declaration of 2023 as the Year of Open Science by NASA and other federal US agencies reflects the belief that open science is a pillar to ensure information access and the democratization of the scientific process. As Chelle Gentemann, program scientist for NASA’s Transform to Open Science (TOPS) mission, recently shared in Nature, “I realized that open science isn’t just about tools. Open-science innovation is being driven by a global community with diverse perspectives. The scientific questions are more interesting and nuanced, the solutions better”. 
-Open science communities and organizations are settings where researchers and societal stakeholders can meet to achieve results that are not only technically but also socially meaningful through the use of transparent, reproducible, and verifiable methods with contributors from different regions, disciplines, and social realities. Non-native English-speaking researchers, educators, and professionals frequently face difficulties obtaining the resources they need to carry out their work, being limited by lack of funding, language barriers, and geographical limitations. 
-We want to share how open science communities, especially those from marginalized regions like Latin America, actively participate in implementing, educating, and disseminating open practices and resources. Bringing experiences from Spanish-speaking communities of practice, we will work with librarians to discuss the challenges faced by such communities when dealing with data and other resources that are only available in English, making language an accessibility barrier. We will discuss aspects of how open science practices may help marginalized communities of scholars get past barriers caused by language, socioeconomic status, and other factors in order to foster a more inclusive scientific community.
+This program is designed to empower participants with the knowledge and skills needed for effective open science practices, with an emphasis in collaboration and inclusivity. 
+
+Attendes will gain insights into the motivations, principles, and benefits of open science, especially for marginalized communities. The training encourages active collaboration and offers guidance on leveraging open practices for a more accessible and diverse scientific community. 
+
+The target audience includes individuals interested in promoting inclusivity through open science, with a focus on overcoming language, socioeconomic, and geographical barriers.
 
 This 3-hour lesson is organized into three main sections covering: 
 
 -	Open, collaborative, and inclusive science. 
 -	Digital accessibility, FAIR, and CARE principles.
 -	Latin American initiatives.
-
-
 
 ## Lesson objectives
 
