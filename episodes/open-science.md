@@ -98,6 +98,66 @@ associated with the lessons. They appear in the "Instructor View"
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+## Challenges for adopting open science in Marginalized Communities
+
+### The role of English as an interchange language in open science
+
+English is one of the most widely spoken and understood languages globally, which is why using English as a common language increases the accessibility of scientific research to a broader international audience and allows researchers from diverse linguistic backgrounds to collaborate and communicate effectively.
+
+However, while English serves as a valuable interchange language, making it the dominant language of science has a negative impact on non-English-speaking communities. 
+
+#### The Bias Produced by the Language Gap 
+
+For those whose native language is not English, the language is a barrier to participate fully in discussions, publish research, or collaborate with English-speaking researchers. This can lead to underrepresentation of valuable contributions. It also hinders the understanding and engagement of individuals with science. 
+
+Language is deeply intertwined with culture. By prioritizing English, we risk embedding cultural biases into scientific knowledge, marginalizing perspectives and practices from non-English-speaking regions. It can also reinforce power dynamics favoring English-speaking countries interests and priorities rather than reflecting the global spectrum of challenges and needs. It can influence decision-making, funding allocation, and the overall direction of scientific research.
+
+For non-English-speaking communities, learning the language is often reserved for people in a privileged position. Not everyone has equal access to the resources needed to acquire a second language. This creates an inherent bias towards individuals with better access to educational materials, funds, and even time, further exacerbating global inequalities in scientific participation and representation.
+
+At the same time, translation is a laborious and costly process that most often falls on the non-English speaker. One common practice in scientific journals in different languages is the translation of abstracts into English to enhance the visibility of the work and accessibility for individuals who only speak English. This practice is prevalent in most Latin American and Chinese journals, while it is extremely infrequent for English-language journals.
+
+### The socio-economic limitations
+
+Being a researcher in a low to middle income country (LMIC) can present several barriers to adopting open science practices:
+
+- Limited Access to Resources:
+
+Researchers in LMICs often lack access to necessary resources such as high-speed internet, computing infrastructure, software, and relevant literature. Open science heavily relies on digital platforms and resources, and the absence of these can hinder their adoption.
+
+- Financial constraints:
+
+Open access publishing, attending open science-related conferences, or accessing open educational resources often incur costs and the financial burden may limit the researchers participation in open science practices.  
+
+- Lack of Funding and Support:
+
+At the same time, research funding is scarce. The limited availability of grants or funding for open science initiatives may discourage researchers from actively participating or investing time in adopting these practices.
+
+- Lack of training opportunities
+
+Awareness and understanding of open science practices may be lacking or insufficient in LMICs due to limited training opportunities. Researchers are not often familiar with the benefits or methodologies associated with open science.
+
+- Publishing Pressures and Incentives:
+
+Many academic systems place a high emphasis on publishing in well-established, often subscription-based, journals. Researchers in LMICs frequently face pressure to conform to traditional publishing practices rather than exploring open access options due to concerns about career progression and recognition. 
+
+- Policy and Institutional Constraints:
+
+Some institutions or governments in low to middle income countries do not have established policies or frameworks supportive of open science. The lack of a conducive environment or encouragement from the authorities can impede the integration of open practices.
+
+Addressing these barriers necessitates concerted efforts from the global scientific community, including providing financial support, improving digital infrastructure, offering training programs, promoting multilingualism, and advocating for policies that facilitate open science adoption in all regions.
+
+
+
+
+
+
+
+Access to Paid Resources and Funding: Access to scientific journals and paid databases can be costly and often beyond the reach of those with limited resources. 
+Participation in Conferences: Attending scientific conferences is a crucial part of collaboration and research dissemination. However, the associated costs, such as travel and accommodation, can be prohibitive for individuals with low incomes.
+Family responsibilities: Childcare or caring for elderly family members often have significant time constraints. This can make it challenging for researchers to participate and collaborate in scientific activities as they need to balance family responsibilities with their scientific work.
+
+
 ::::::::::::::::::::::::::::::::::::: challenge 
 
 ## DISCUSSION: THINKING ABOUT OPEN SCIENCE BARRIERS
@@ -122,8 +182,3 @@ Share your answers on the collaborative document.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: references
-
-LALALALALA
-
-::::::::::::::::::::::::::::::::::::::::::::::::
