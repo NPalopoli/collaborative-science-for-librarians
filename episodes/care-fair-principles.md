@@ -126,7 +126,7 @@ Data accessibility involves adopting practices such as the ones described in the
 The FAIR acronym stands for findability, accessibility, interoperability, and reusability of data (or any digital object), metadata (information about that digital object), and infrastructure, particularly in the area of data and scientific research. 
 
 
-Check out the Go Fair website: [](https://www.go-fair.org/fair-principles/) 
+Check out the Go Fair website: [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/) 
 
 ### Data should be _Findable_
 
@@ -138,10 +138,11 @@ The FAIR principles emphasizes that data and associated metadata should be easil
 In order to be findable, (Meta) data should have assigned a globally unique and persistent identifier. These identifiers, which consist of an internal link, remove ambiguity in the meaning of the published data, they make it findable, they allow computers to interpret it in a meaningful way, and they help the people who reuse it to properly cite it. Many data repositories will automatically generate them when you store a datasets, but you can also use registry services that use algorithms to guarantee the uniqueness of the generated identifiers.
 
 A few examples:
-- [](https://orcid.org/)
-- [](http://www.doi.org)
-- [](http://identifiers.org)
-- [](https://www.crossref.org/services/funder-registry/)
+
+- [https://orcid.org/](https://orcid.org/)
+- [http://www.doi.org](http://www.doi.org)
+- [http://identifiers.org](http://identifiers.org)
+- [https://www.crossref.org/services/funder-registry/](https://www.crossref.org/services/funder-registry/)
 
 #### The importance of a descriptive metadata
 
@@ -149,8 +150,9 @@ Metadata provide essential context about the data, describing its content, struc
 Typically, the metadata and the dataset are stored as distinct files. It is important to establish a clear link between both of them by referencing the globally unique and persistent identifier within the metadata. 
 
 Examples of metadata frameworks:
-- [](https://www.dtls.nl/fair-data/find-fair-data-tools/)
-- [](https://isa-tools.org/)
+
+- [https://www.dtls.nl/fair-data/find-fair-data-tools/](https://www.dtls.nl/fair-data/find-fair-data-tools/)
+- [https://isa-tools.org/](https://isa-tools.org/)
 
 
 #### Searchable resources to register or index data
