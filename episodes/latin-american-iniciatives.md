@@ -87,30 +87,30 @@ The Federated Repository Network of the Region is in the process of establishing
 ### Open access national systems
 
 **Argentina**
-National System of Digital Repositories https://repositoriosdigitales.mincyt.gob.ar/ 
-Open data portal https://datos.gob.ar/ 
-Citizen Science https://www.argentina.gob.ar/ciencia/sact/ciencia-ciudadana
+[National System of Digital Repositories] (https://repositoriosdigitales.mincyt.gob.ar/) 
+[Open data portal] (https://datos.gob.ar/)
+[Citizen Science] (https://www.argentina.gob.ar/ciencia/sact/ciencia-ciudadana)
 
 **Bolivia**
-Open data portal https://datos.gob.bo/ 
+[Open data portal] (https://datos.gob.bo/)
 
 **Brasil**
-Open data portal https://dados.gov.br/
+[Open data portal] (https://dados.gov.br/)
 
 **Chile**
-Open data portal https://datos.gob.cl/ 
+[Open data portal] (https://datos.gob.cl/)
 
 **Colombia**
-Open data portal https://www.datos.gov.co/ 
+[Open data portal] (https://www.datos.gov.co/) 
 
 **Costa Rica**
 Open data portal 
 
 **Ecuador**
-Open data portal https://www.datosabiertos.gob.ec/
+[Open data portal] (https://www.datosabiertos.gob.ec/)
 
 **El Salvador**
-Open data portal https://www.pgrdatosabiertos.gob.sv/?q=search/type/dataset
+[Open data portal] (https://www.pgrdatosabiertos.gob.sv/?q=search/type/dataset)
 
 **Guatemala**
 Open data portal 
@@ -119,33 +119,31 @@ Open data portal
 Open data portal
 
 **Mexico**
-Open data portal https://datos.gob.mx/
-Repositorio nacional https://repositorionacionalcti.mx/
+[Open data portal] (https://datos.gob.mx/)
+[Repositorio nacional] (https://repositorionacionalcti.mx/)
 
 **Nicaragua**
-Open data portal 
-https://datanicaragua.com/index.html
+[Open data portal] (https://datanicaragua.com/index.html)
 
 **Panamá**
-Open data portal https://www.datosabiertos.gob.pa/
+[Open data portal] (https://www.datosabiertos.gob.pa/)
 
 **Paraguay** 
 Open data portal
 
 **Peru**
-Open data portal https://www.datosabiertos.gob.pe/ 
+[Open data portal] (https://www.datosabiertos.gob.pe/) 
 
 **República Dominicana**
 Open data portal
 
 **Uruguay**
-Open data portal https://catalogodatos.gub.uy/
+[Open data portal] (https://catalogodatos.gub.uy/)
 
 **Venezuela**
-Open data portal  https://datos.gob.ve
+[Open data portal] (https://datos.gob.ve)
 
 ### Communities of practice related to open science
-https://www.metadocencia.org/post/comunidades-practica-ciencia-abierta-latam/
 
 **Metadocencia** works to make the production, communication, and application of scientific and technical knowledge equitable globally.
 **Latin American Open Data Initiative (ILDA)** promotes inclusive development, public and social innovation, and open knowledge through openness, the use of public data, and the active participation of the communities involved in Latin America.
@@ -153,11 +151,10 @@ https://www.metadocencia.org/post/comunidades-practica-ciencia-abierta-latam/
 
 
 ### Networks
-https://redbaalc.udualc.org/
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-
+WIP
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
