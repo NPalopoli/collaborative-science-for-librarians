@@ -23,21 +23,9 @@ After attending this training, participants will be able to:
 
 ## Introduction
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files (with extension `.md`) and
-[R Markdown][r-markdown] for dynamic files that can render code into output
-(with extension `.Rmd`). Please refer to the [Introduction to The Carpentries
-Workbench][carpentries-workbench] for full documentation.
+In this episode, building upon themes explored in previous installments, we will delve into the nuanced landscape of Open Science, specifically focusing on Latin America. While celebrating the region's contributions, we will also confront the unique challenges it faces on the path to a more inclusive and equitable scientific community.
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson template:
-
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+We will cover the experiences and developments of researchers, institutions, and communities at the forefront of change. We will unpack the key components that constitute a more inclusive and equitable approach to Open Science and shed light on the innovative strategies and collaborations shaping the future of research in Latin America. 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -70,30 +58,106 @@ Exit routes:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Figures
+## Overview of Latin American initiatives
 
-You can use pandoc markdown for static figures with the following syntax:
+There is a significant focus, on regarding knowledge as a communal asset for Latin America and the Caribbean on open access, overseen by the academic community, as a shared resource devoid of financial gain. This is further supported by suggestions to reevaluate evaluation policies that rely on publication incentives linked to impact metrics. Such policies have the potential to impede local autonomy in shaping research agendas while discouraging the adoption of effective open access practices and research methodologies that involve the wider society. Policies and regulations favor the use of institutional repositories within universities and National Science and Technology Organizations as the primary tools for endorsing and expanding open access initiatives in the region. 
 
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
+::::::::::::::::::::::::::::::::::::: callout
+Latin America regulation of knowledge access: 
+ 
+Peru, Argentina, and Mexico (2013-2014): These countries have opted for a legislative approach to regulate open access policies, enacting specific laws or policies.
+Brazil: guidelines supporting open access have been issued in the form of declarations and manifestos, driven by various groups committed to this cause. Additionally, there have been proposed laws (2007 y 2011) related to open access, although they have not yet been enacted.
+Chile (2014): recommendations for access and preservation of scientific information and research data have been developed, as detailed in the 2014 Open Data Manual. This has been done with the intention of establishing a research open data policy in the future.
+Colombia (2019): has begun to establish general guidelines for the future development of an open science policy since 2019.
+::::::::::::::::::::::::::::::::::::::::::::::::
 
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
+The Federated Repository Network of the Region is in the process of establishing this regulatory framework and brings together systems of national repositories from 11 different countries
 
-## Math
+## UNESCO's Open Science Recommendation for Latin America and the Caribbean
 
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
+## Latin American initiatives in open practices
 
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
+### Non-commercial open access system to journals published in the region
+- **Redalyc** offers a vast collection of scientific journals in Spanish and Portuguese, which ensures that research from Latin America is not marginalized by language barriers. 
+- **Latindex** indexing and cataloging efforts make it easier for researchers to locate and access relevant resources within their linguistic and regional contexts.
+- **SciELO**  includes multilingual journals from Latin America, Spain, Portugal, and other regions.
+- **AmeliCA** seeks to address the challenges faced by non-native English speakers by promoting regional publishing, open science, and the development of inclusive infrastructures.
+- **Latin America Research Commons** editorial project originated in the Latin American Studies Association (LASA) and its main goal is to ensure the widest possible dissemination of original monographs and journals in all disciplines related to Latin American studies. 
 
-Cool, right?
+### Open access national systems
+
+**Argentina**
+National System of Digital Repositories https://repositoriosdigitales.mincyt.gob.ar/ 
+Open data portal http://datos.gob.ar 
+Citizen Science https://www.argentina.gob.ar/ciencia/sact/ciencia-ciudadana
+
+**Bolivia**
+Open data portal https://datos.gob.bo/ 
+
+**Brasil**
+Open data portal https://dados.gov.br/
+
+**Chile**
+Open data portal https://datos.gob.cl/ 
+
+**Colombia**
+Open data portal https://www.datos.gov.co/ 
+
+**Costa Rica**
+Open data portal http://datosabiertos.go.cr
+
+**Ecuador**
+Open data portal https://www.datosabiertos.gob.ec/
+
+**El Salvador**
+Open data portal https://www.pgrdatosabiertos.gob.sv/?q=search/type/dataset
+
+**Guatemala**
+Open data portal http://datos.gob.gt/ 
+
+**Honduras**
+Open data portal
+
+**Mexico**
+Open data portal https://datos.gob.mx/
+Repositorio nacional https://repositorionacionalcti.mx/
+
+**Nicaragua**
+Open data portal http://datosabiertos.gob.ni
+https://datanicaragua.com/index.html
+
+**Panamá**
+Open data portal https://www.datosabiertos.gob.pa/
+
+**Paraguay** 
+Open data portal www.datos.gov.py
+
+**Peru**
+Open data portal https://www.datosabiertos.gob.pe/ 
+
+**República Dominicana**
+Open data portal http://datos.gob.do
+
+**Uruguay**
+Open data portal https://catalogodatos.gub.uy/
+
+**Venezuela**
+Open data portal  https://datos.gob.ve
+
+### Communities of practice related to open science
+https://www.metadocencia.org/post/comunidades-practica-ciencia-abierta-latam/
+
+**Metadocencia** works to make the production, communication, and application of scientific and technical knowledge equitable globally.
+**Latin American Open Data Initiative (ILDA)** promotes inclusive development, public and social innovation, and open knowledge through openness, the use of public data, and the active participation of the communities involved in Latin America.
+**Conectorial** is a non-profit community of open access journal publishers and research professionals dedicated to developing resources and means to foster scientific production and promote the growth of Open Access journals in Latin America. It provides a space where people related to the edition, management, and promotion of scientific Open Access journals, as well as research and publication of articles can meet to exchange knowledge.
+
+
+### Networks
+https://redbaalc.udualc.org/
+
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
