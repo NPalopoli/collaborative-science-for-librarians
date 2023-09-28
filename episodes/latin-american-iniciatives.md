@@ -88,7 +88,7 @@ The Federated Repository Network of the Region is in the process of establishing
 
 **Argentina**
 National System of Digital Repositories https://repositoriosdigitales.mincyt.gob.ar/ 
-Open data portal http://datos.gob.ar 
+Open data portal https://datos.gob.ar/ 
 Citizen Science https://www.argentina.gob.ar/ciencia/sact/ciencia-ciudadana
 
 **Bolivia**
@@ -104,7 +104,7 @@ Open data portal https://datos.gob.cl/
 Open data portal https://www.datos.gov.co/ 
 
 **Costa Rica**
-Open data portal http://datosabiertos.go.cr
+Open data portal 
 
 **Ecuador**
 Open data portal https://www.datosabiertos.gob.ec/
@@ -113,7 +113,7 @@ Open data portal https://www.datosabiertos.gob.ec/
 Open data portal https://www.pgrdatosabiertos.gob.sv/?q=search/type/dataset
 
 **Guatemala**
-Open data portal http://datos.gob.gt/ 
+Open data portal 
 
 **Honduras**
 Open data portal
@@ -123,20 +123,20 @@ Open data portal https://datos.gob.mx/
 Repositorio nacional https://repositorionacionalcti.mx/
 
 **Nicaragua**
-Open data portal http://datosabiertos.gob.ni
+Open data portal 
 https://datanicaragua.com/index.html
 
 **Panamá**
 Open data portal https://www.datosabiertos.gob.pa/
 
 **Paraguay** 
-Open data portal www.datos.gov.py
+Open data portal
 
 **Peru**
 Open data portal https://www.datosabiertos.gob.pe/ 
 
 **República Dominicana**
-Open data portal http://datos.gob.do
+Open data portal
 
 **Uruguay**
 Open data portal https://catalogodatos.gub.uy/
