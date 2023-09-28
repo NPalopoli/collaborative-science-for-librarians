@@ -1,12 +1,12 @@
 ---
 title: 'Latin American Initiatives'
-teaching: 10
+teaching: 25
 exercises: 2
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Which open practices do Latin American initiatives apply to promote an inclusive research environment for non-native English speakers?
+- Which open practices do Latin American initiatives apply to promote an inclusive research environment?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
