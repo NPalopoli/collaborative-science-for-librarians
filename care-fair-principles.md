@@ -140,8 +140,8 @@ In order to be findable, (Meta) data should have assigned a globally unique and 
 A few examples:
 
 - [https://orcid.org/](https://orcid.org/)
-- [http://www.doi.org](http://www.doi.org)
-- [http://identifiers.org](http://identifiers.org)
+- [https://www.doi.org](https://www.doi.org)
+- [https://identifiers.org](https://identifiers.org)
 - [https://www.crossref.org/services/funder-registry/](https://www.crossref.org/services/funder-registry/)
 
 #### The importance of a descriptive metadata
