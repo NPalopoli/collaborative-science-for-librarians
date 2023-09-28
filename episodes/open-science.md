@@ -159,13 +159,28 @@ Addressing these barriers necessitates concerted efforts from the global scienti
 (In groups, 15 minutes): Think about your experience working with open science and answer the following questions:
 
 1. Which limitations or difficulties have you encountered?
-2. Do you know any marginalized communities near you?
-3. How do you think those difficulties affect the implementation of open science for marginalized communities?
+2. How do you think those difficulties affect the implementation of open science in marginalized communities?
+3. Do you know any marginalized or unrepresented communities near you?
+
 
 Share your answers on the collaborative document.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Benefits of Collaborative Science for Marginalized Communities
+
+Open science can promote diversity, inclusivity, and equitable participation in research helping mitigate several obstacles and barriers:
+
+- Free access to research results: removes economic barriers, providing equality to individuals with limited resources. This diversifies scientific participation, enriching perspectives, and promoting inclusive and relevant innovations for diverse communities. Individuals with lower socioeconomic status can access the same high-quality scientific information as those with higher socioeconomic standing.
+
+- Collaborative research and resource sharing: reduce costs and overcome barriers, enabling scientists to participate in projects that may have been individually unaffordable for them. This collaboration not only promotes inclusion but also harnesses a broader range of knowledge and experiences through funding, equipment, and expertise, reducing the burden on individual researchers or institutions with limited resources.
+
+- Fostering diversity, inclusion, and equitable participation: is crucial for representing a variety of perspectives and talents worldwide. Adapting open science practices to local needs and overcoming economic and cultural barriers is essential. Encouraging the active participation of individuals with disabilities in collaborative research projects promotes diversity and ensures that their unique perspectives and expertise are valued.
+
+- Diverse Collaboration Networks: collaboration among researchers from different linguistic backgrounds can foster the exchange of ideas and knowledge. Inclusive research teams that value diverse linguistic skills can collectively contribute to overcoming language barriers. 
+
+Check out this post:
+https://www.metadocencia.org/en/post/open-science-latin-america/
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
