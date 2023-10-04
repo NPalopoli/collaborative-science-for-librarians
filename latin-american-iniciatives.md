@@ -85,72 +85,53 @@ The Federated Repository Network of the Region is in the process of establishing
 - **Latin America Research Commons** editorial project originated in the Latin American Studies Association (LASA) and its main goal is to ensure the widest possible dissemination of original monographs and journals in all disciplines related to Latin American studies. 
 
 ### Open access national systems
+Here are some examples of open access national systems from different Latinamerican countries
 
 **Argentina**
-[National System of Digital Repositories] (https://repositoriosdigitales.mincyt.gob.ar/) 
-[Open data portal] (https://datos.gob.ar/)
-[Citizen Science] (https://www.argentina.gob.ar/ciencia/sact/ciencia-ciudadana)
+- [National System of Digital Repositories](https://repositoriosdigitales.mincyt.gob.ar/) 
+- [Open data portal](https://datos.gob.ar/)
+- [Citizen Science](https://www.argentina.gob.ar/ciencia/sact/ciencia-ciudadana)
 
 **Bolivia**
-[Open data portal] (https://datos.gob.bo/)
+- [Open data portal](https://datos.gob.bo/)
 
 **Brasil**
-[Open data portal] (https://dados.gov.br/)
+- [Open data portal](https://dados.gov.br/)
 
 **Chile**
-[Open data portal] (https://datos.gob.cl/)
+- [Open data portal](https://datos.gob.cl/)
 
 **Colombia**
-[Open data portal] (https://www.datos.gov.co/) 
-
-**Costa Rica**
-Open data portal 
-
-**Ecuador**
-[Open data portal] (https://www.datosabiertos.gob.ec/)
-
-**El Salvador**
-[Open data portal] (https://www.pgrdatosabiertos.gob.sv/?q=search/type/dataset)
-
-**Guatemala**
-Open data portal 
-
-**Honduras**
-Open data portal
+- [Open data portal](https://www.datos.gov.co/) 
 
 **Mexico**
-[Open data portal] (https://datos.gob.mx/)
-[Repositorio nacional] (https://repositorionacionalcti.mx/)
-
-**Nicaragua**
-[Open data portal] (https://datanicaragua.com/index.html)
-
-**Panamá**
-[Open data portal] (https://www.datosabiertos.gob.pa/)
+- [Open data portal](https://datos.gob.mx/)
+- [Repositorio nacional](https://repositorionacionalcti.mx/)
 
 **Paraguay** 
-Open data portal
+- [Open data portal](https://www.datos.gov.py/)
 
 **Peru**
-[Open data portal] (https://www.datosabiertos.gob.pe/) 
-
-**República Dominicana**
-Open data portal
+- [National repository of research works](https://renati.sunedu.gob.pe/)
+- [Open data portal](https://www.datosabiertos.gob.pe/)
 
 **Uruguay**
-[Open data portal] (https://catalogodatos.gub.uy/)
+- [Open data portal](https://catalogodatos.gub.uy/)
 
 **Venezuela**
-[Open data portal] (https://datos.gob.ve)
+- [Open data portal](https://datos.gob.ve)
 
 ### Communities of practice related to open science
+"One possible instrument for the dissemination of open science, potentially with more acceptance from users and a regional perspective, are the communities of practice, which, according to Etienne and Beverly Wenger-Trayne (2015), are self-organized and self-maintained groups of people who share a concern or passion for something they do and learn to do it better as they interact regularly. In recent years, these communities have grown significantly in Latin America, many focusing on reducing the gender gap in STEAM (Science, Technology, Engineering, Arts, and Mathematics), such as R-Ladies, PyLadies, GeoChicas, LasdeSistemas, TecnoLatinas, and Women in Bioinformatics and Data Science Latin America. Others aim to transmit skills for teaching computational tools or are dedicated to teaching open science tools and practices, such as MetaDocencia." (https://www.metadocencia.org/en/post/communities-of-practice-la/)
 
-**Metadocencia** works to make the production, communication, and application of scientific and technical knowledge equitable globally.
-**Latin American Open Data Initiative (ILDA)** promotes inclusive development, public and social innovation, and open knowledge through openness, the use of public data, and the active participation of the communities involved in Latin America.
-**Conectorial** is a non-profit community of open access journal publishers and research professionals dedicated to developing resources and means to foster scientific production and promote the growth of Open Access journals in Latin America. It provides a space where people related to the edition, management, and promotion of scientific Open Access journals, as well as research and publication of articles can meet to exchange knowledge.
+[**Metadocencia**](https://www.metadocencia.org/) works to make the production, communication, and application of scientific and technical knowledge equitable globally.
+[**Latin American Open Data Initiative (ILDA)**](https://idatosabiertos.org/) promotes inclusive development, public and social innovation, and open knowledge through openness, the use of public data, and the active participation of the communities involved in Latin America.
+[**Conectorial**](https://conectorial.netlify.app/) is a non-profit community of open access journal publishers and research professionals dedicated to developing resources and means to foster scientific production and promote the growth of Open Access journals in Latin America. It provides a space where people related to the edition, management, and promotion of scientific Open Access journals, as well as research and publication of articles can meet to exchange knowledge.
 
 
-### Networks
+### Networks and  projects
+[Mapping open-science communities, organizations, and events in Latin America](https://ciencia-abierta-en-latinoamerica.netlify.app/) Motivated by the need for a centralized hub of information useful not only to us but that could potentially help other individuals and communities. So we decided to create a repository that collects and centralizes open resources with a focus on Latin America, such as communities, events, workshops, and funders. 
+[AbreLatam](https://2023.abrelatam.org/)
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
