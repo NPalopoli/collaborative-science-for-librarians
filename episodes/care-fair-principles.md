@@ -213,6 +213,22 @@ A and B are correct
 :::::::::::::::::::::::::::::::::
 
 
+::::::::::::::::::::::::::::::::::::: callout
+
+To make their findings openly accessible to the public, researchers have different options:
+
+- Green Open Access (Green Route):
+
+It involves self-archiving or depositing a version of a scholarly article or research output in a repository or other online platform. Typically, this is done after the work has been published in a subscription-based journal. Authors retain the rights to their work and can share it publicly without violating copyright restrictions. Green open access enhances the visibility and accessibility of research outputs.
+
+- Diamond Open Access (Diamond Route):
+
+Also known as "gold" open access, it involves making research outputs freely accessible immediately upon publication, and readers can access them without any paywalls or subscription fees. Diamond open access journals often cover publication costs through various means, such as institutional support, grants, or author fees.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 ## CARE principles and open science
 
 The CARE Principles for Indigenous Data Governance are a set of guidelines developed to address the unique needs and considerations related to the collection, use, and management of data pertaining to Indigenous people and communities. The acronym stands for Collective Benefit, Authority to Control, Responsibility, and Ethics.
