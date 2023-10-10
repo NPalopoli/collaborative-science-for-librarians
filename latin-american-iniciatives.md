@@ -23,33 +23,12 @@ After attending this training, participants will be able to:
 
 ## Introduction
 
-In this episode, we will delve into the landscape of Open Science in Latin America. We'll highlight the region's contributions while addressing the challenges it encounters on the journey towards a more inclusive scientific community.
-
-We will discuss the experiences and progress of researchers, institutions, and communities. Our focus is on understanding strategies and collaborations implemented in Latin America to make science more inclusive and equitable.
+In this episode, we will delve into the landscape of Open Science in Latin America. We'll highlight the region's contributions while addressing the challenges it encounters on the journey towards a more inclusive scientific community. Our focus is on understanding strategies and collaborations implemented in Latin America to make science more inclusive and equitable.
 
 
+## Open science in Latin America
 
-## Overview of Latin American initiatives
-
-In Latin America and the Caribbean, there is a strong emphasis on seeing knowledge as a communal asset, particularly through open access. Academic communities oversee this approach, valuing open access without seeking financial gain. Policies promote the use of institutional repositories in universities and National Science and Technology Organizations as primary tools to endorse and expand open access initiatives in the region. 
-Additionally, many initiatives suggest it is imperative to review the evaluation policies tied to publication rewards based on impact metrics. These policies could hinder local control over research agendas and discourage effective open access practices and research methods involving the broader society. That is why it is important to replace impact factor metrics with an evaluation centered on social relevance.
-
-
-::::::::::::::::::::::::::::::::::::: callout
-Latin America regulation of knowledge access: 
- 
-- Peru, Argentina, and Mexico (2013-2014): these countries have opted for a legislative approach to regulate open access policies, enacting specific laws or policies.
-
-- Brazil: guidelines supporting open access have been issued in the form of declarations and manifestos, driven by various groups committed to this cause. Additionally, there have been proposed laws (2007 y 2011) related to open access, although they have not yet been enacted.
-
-- Chile (2014): recommendations for access and preservation of scientific information and research data have been developed, as detailed in the 2014 Open Data Manual. This has been done with the intention of establishing a research open data policy in the future.
-
-- Colombia (2019): has begun to establish general guidelines for the future development of an open science policy since 2019.
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-The Federated Repository Network of the Region is in the process of establishing this regulatory framework and brings together systems of national repositories from 11 different countries
-
-## UNESCO's Open Science Recommendation for Latin America and the Caribbean
+### UNESCO's Open Science Recommendation for Latin America and the Caribbean
 
 The ministers of Science, Technology, and Innovation from Argentina, Colombia, Cuba, Honduras, Mexico, Nicaragua, and Venezuela — with the support of the United Nations Educational, Scientific, and Cultural Organization (UNESCO) - participated in the regional launch of the UNESCO recommendation on Open Science from Latin America and the Caribbean.
 They recognize knowledge as a human right and, therefore, a common good of the people that should be at the service of humanity's needs. Because of this, they seek to challenge the monopoly of modern science by taking actions that: 
@@ -65,10 +44,29 @@ They recognize knowledge as a human right and, therefore, a common good of the p
 -	Ensure equal access to scientific processes and decision-making for achieving gender equality and promoting the inclusion of the LGBTQ+ community. 
 -	Strengthening mechanisms for academic mobility and participation in open science, for women, young people, and ethnic groups.
 
+### Open access
 
-## Latin American initiatives in open practices
+In Latin America and the Caribbean, there is a strong emphasis on seeing knowledge as a communal asset, particularly through open access. Policies promote the use of institutional repositories in universities and National Science and Technology Organizations as primary tools to endorse and expand open access initiatives in the region. 
 
-### Non-commercial open access system to journals published in the region
+
+::::::::::::::::::::::::::::::::::::: callout
+Latin America regulation of knowledge access: 
+ 
+- Peru, Argentina, and Mexico: between 2013 and 2014, these countries have opted for a legislative approach to regulate open access policies, enacting specific laws or policies.
+
+- Brazil: guidelines supporting open access have been issued in the form of declarations and manifestos, driven by various groups committed to this cause. Additionally, there have been proposed laws (2007 y 2011) related to open access, although they have not yet been enacted.
+
+- Chile: recommendations for access and preservation of scientific information and research data have been developed, as detailed in the 2014 Open Data Manual. This has been done with the intention of establishing a research open data policy in the future.
+
+- Colombia: has begun to establish general guidelines for the future development of an open science policy since 2019.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+The federated network of institutional repositories of scientific publications ([Red Federada de Repositorios institucionales de Publicaciones Científicas](https://www.lareferencia.info/es/institucional/quienes-somos)) brings together national repositories from Argentina, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Spain, Mexico, Panama, Peru, and Uruguay. Through its services, it supports national Open Access strategies in Latin America by providing a platform with interoperability standards, sharing, and enhancing visibility of the scientific production generated in higher education and scientific research institutions.
+
+
+### Non-commercial open access systems to journals published in the region
 
 
 - **Redalyc** offers a vast collection of scientific journals in Spanish and Portuguese, which ensures that research from Latin America is not marginalized by language barriers. 
@@ -83,7 +81,7 @@ They recognize knowledge as a human right and, therefore, a common good of the p
 
 ### Open access national systems
 
-Here are some examples of open access national systems from different Latin American countries
+Here are some examples of open access national systems from different Latin American countries:
 
 **Argentina**
 - [National System of Digital Repositories](https://repositoriosdigitales.mincyt.gob.ar/) 
@@ -123,7 +121,7 @@ Here are some examples of open access national systems from different Latin Amer
 
 ## DISCUSSION: 
 
-(In groups, 15 minutes) What actions can you take as librarians to increase diversity in the research environment? How can you increase the participation of Latinx researchers of research groups? 
+(In groups, 15 minutes) What actions can you take as librarians to increase diversity in the research environment? How can you increase the participation of Latin researchers or research groups? 
 
 Share your answers on the collaborative document.
 
