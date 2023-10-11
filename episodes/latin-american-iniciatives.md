@@ -65,20 +65,6 @@ Latin America regulation of knowledge access:
 
 The federated network of institutional repositories of scientific publications ([Red Federada de Repositorios institucionales de Publicaciones Científicas](https://www.lareferencia.info/es/institucional/quienes-somos)) brings together national repositories from Argentina, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Spain, Mexico, Panama, Peru, and Uruguay. Through its services, it supports national Open Access strategies in Latin America by providing a platform with interoperability standards, sharing, and enhancing visibility of the scientific production generated in higher education and scientific research institutions.
 
-
-### Non-commercial open access systems to journals published in the region
-
-
-- [**Redalyc**](https://redalyc.org/) offers a vast collection of scientific journals in Spanish and Portuguese, which ensures that research from Latin America is not marginalized by language barriers. 
-
-- [**Latindex**](https://latindex.org/latindex/) indexing and cataloging efforts make it easier for researchers to locate and access relevant resources within their linguistic and regional contexts.
-
-- [**SciELO**](https://scielo.org/es/)  includes multilingual journals from Latin America, Spain, Portugal, and other regions.
-
-- [**AmeliCA**](http://portal.amelica.org/) seeks to address the challenges faced by non-native English speakers by promoting regional publishing, open science, and the development of inclusive infrastructures.
-
-- [**Latin America Research Commons**](https://www.larcommons.net/) editorial project originated in the Latin American Studies Association (LASA) and its main goal is to ensure the widest possible dissemination of original monographs and journals in all disciplines related to Latin American studies. 
-
 ### Open access national systems
 
 Here are some examples of open access national systems from different Latin American countries:
@@ -116,6 +102,20 @@ Here are some examples of open access national systems from different Latin Amer
 
 **Venezuela**
 - [Open data portal](https://datos.gob.ve)
+
+
+### Non-commercial open access systems to journals published in the region
+
+
+- [**Redalyc**](https://redalyc.org/) offers a vast collection of scientific journals in Spanish and Portuguese, which ensures that research from Latin America is not marginalized by language barriers. 
+
+- [**Latindex**](https://latindex.org/latindex/) indexing and cataloging efforts make it easier for researchers to locate and access relevant resources within their linguistic and regional contexts.
+
+- [**SciELO**](https://scielo.org/es/)  includes multilingual journals from Latin America, Spain, Portugal, and other regions.
+
+- [**AmeliCA**](http://portal.amelica.org/) seeks to address the challenges faced by non-native English speakers by promoting regional publishing, open science, and the development of inclusive infrastructures.
+
+- [**Latin America Research Commons**](https://www.larcommons.net/) editorial project originated in the Latin American Studies Association (LASA) and its main goal is to ensure the widest possible dissemination of original monographs and journals in all disciplines related to Latin American studies. 
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
