@@ -69,15 +69,15 @@ The federated network of institutional repositories of scientific publications (
 ### Non-commercial open access systems to journals published in the region
 
 
-- **Redalyc** offers a vast collection of scientific journals in Spanish and Portuguese, which ensures that research from Latin America is not marginalized by language barriers. 
+- [**Redalyc**](https://redalyc.org/) offers a vast collection of scientific journals in Spanish and Portuguese, which ensures that research from Latin America is not marginalized by language barriers. 
 
-- **Latindex** indexing and cataloging efforts make it easier for researchers to locate and access relevant resources within their linguistic and regional contexts.
+- [**Latindex**](https://latindex.org/latindex/) indexing and cataloging efforts make it easier for researchers to locate and access relevant resources within their linguistic and regional contexts.
 
-- **SciELO**  includes multilingual journals from Latin America, Spain, Portugal, and other regions.
+- [**SciELO**](https://scielo.org/es/)  includes multilingual journals from Latin America, Spain, Portugal, and other regions.
 
-- **AmeliCA** seeks to address the challenges faced by non-native English speakers by promoting regional publishing, open science, and the development of inclusive infrastructures.
+- [**AmeliCA**](http://portal.amelica.org/) seeks to address the challenges faced by non-native English speakers by promoting regional publishing, open science, and the development of inclusive infrastructures.
 
-- **Latin America Research Commons** editorial project originated in the Latin American Studies Association (LASA) and its main goal is to ensure the widest possible dissemination of original monographs and journals in all disciplines related to Latin American studies. 
+- [**Latin America Research Commons**](https://www.larcommons.net/) editorial project originated in the Latin American Studies Association (LASA) and its main goal is to ensure the widest possible dissemination of original monographs and journals in all disciplines related to Latin American studies. 
 
 ### Open access national systems
 
@@ -102,7 +102,7 @@ Here are some examples of open access national systems from different Latin Amer
 
 **Mexico**
 - [Open data portal](https://datos.gob.mx/)
-- [Repositorio nacional](https://repositorionacionalcti.mx/)
+- [National repository](https://repositorionacionalcti.mx/)
 
 **Paraguay** 
 - [Open data portal](https://www.datos.gov.py/)
@@ -136,7 +136,7 @@ In Latin America, many of such communities focus specifically on bridging the ge
 Communities of practice are driven by individuals who are genuinely passionate about the subject matter. This grassroots involvement ensures a more organic and authentic dissemination of open science principles, engaging individuals on a personal level.
 
 - Inclusivity and Engagement:
-Communities of practice foster inclusivity, encouraging diverse participation and engagement from individuals of various backgrounds, experiences, and expertise levels. This inclusivity facilitates a broader understanding of open science and encourages a wider range of people to adopt and promote these practices.
+Communities of practice foster inclusivity, encouraging diverse participation and engagement from individuals of various backgrounds, experiences, and expertise levels. The inclusion facilitates a broader understanding of open science and encourages a wider range of people to adopt and promote these practices.
 
 - Peer Learning and Collaboration:
 In these communities, members learn from each other, share experiences, and collectively work towards a common goal. This collaborative learning environment fosters a sense of belonging and encourages the adoption of open practices through shared knowledge and mutual support.
@@ -149,13 +149,22 @@ Communities of practice are agile and adaptable to changing circumstances, techn
 
 Some of these communities are:
 
-[**Metadocencia**](https://www.metadocencia.org/) works to make the production, communication, and application of scientific and technical knowledge equitable globally.
+[**Metadocencia**](https://www.metadocencia.org/) works to make the production, communication, and application of scientific and technical knowledge equitable globally. MetaDocencia is an international community of researchers and educators dedicated to equipping individuals and organizations from Spanish-speaking regions and beyond by providing open science resources, delivering professional development training, and supporting infrastructure design and implementation. We are convinced that elevating scientific and technical capacity in Latin America will increase equity more broadly in society and accelerate innovation across the globe. 
+
+With [OLS](https://openlifesci.org/), [2i2c](https://2i2c.org/) and the support of NASA, MetaDocencia joins the initiative to transform science and technology to open practices. To help build a culture of open science, NASA is promoting the [Open-Source Science Initiative (OSSI)](https://www.nasa.gov/centers-and-facilities/marshall/nasa-boosts-open-science-through-innovative-training/), a comprehensive program of activities to support the advancement of science toward openness. As part of this program, MetaDocencia will contribute with its experience in training, the scientific expertise of its community, and its Spanish-language competence and contextualization knowldege to work with Spanish-speaking scientific and technical communities.
 
 [**Latin American Open Data Initiative (ILDA)**](https://idatosabiertos.org/) promotes inclusive development, public and social innovation, and open knowledge through openness, the use of public data, and the active participation of the communities involved in Latin America.
 
 [**Conectorial**](https://conectorial.netlify.app/) is a non-profit community of open access journal publishers and research professionals dedicated to developing resources and means to foster scientific production and promote the growth of Open Access journals in Latin America. It provides a space where people related to the edition, management, and promotion of scientific Open Access journals, as well as research and publication of articles can meet to exchange knowledge.
 
+The collaborative environment fostered by communities of practice not only facilitates the emergence of research projects but also amplifies their visibility and relevance. By encouraging the exchange of knowledge and experiences among experts and passionate professionals, these communities create a fertile ground for the incubation and execution of innovative ideas. Moreover, by providing a space for interdisciplinary collaboration, they allow diverse disciplines to converge and mutually enrich one another, thus enhancing the quality and impact of research projects. This interactive collaboration benefits not only those directly involved but also contributes to the advancement of knowledge and the progress of society as a whole.
+
+There are some examples of projects fostered by the participation in communities of practice:
+
+[Mapping open-science communities, organizations, and events in Latin America](https://ciencia-abierta-en-latinoamerica.netlify.app/). Motivated by the need for a centralized hub of information useful not only to us but that could potentially help other individuals and communities. So we decided to create a repository that collects and centralizes open resources with a focus on Latin America, such as communities, events, workshops, and funders. 
+
 You can find more information about Latin American communities of practice [here](https://www.metadocencia.org/en/post/communities-of-practice-la/).
+
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
@@ -164,14 +173,7 @@ You can find more information about Latin American communities of practice [here
 (3 minutes) Have you ever participated in a community of practice? In the collaborative document, share something you gained or learned from your experience of being part of such an organization.
 
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
-### Networks and  projects
-
-[Mapping open-science communities, organizations, and events in Latin America](https://ciencia-abierta-en-latinoamerica.netlify.app/). Motivated by the need for a centralized hub of information useful not only to us but that could potentially help other individuals and communities. So we decided to create a repository that collects and centralizes open resources with a focus on Latin America, such as communities, events, workshops, and funders. 
-
-[AbreLatam](https://2023.abrelatam.org/)
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
