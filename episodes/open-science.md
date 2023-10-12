@@ -22,13 +22,13 @@ After attending this training, participants will be able to:
 
 ## Introduction
 
-Librarians play an indispensable role in advancing open science as facilitators, supporting researchers, and significantly contributing to the principles of collaboration and inclusivity. These values are crucial as they enable global participation in scientific endeavors, ultimately contributing to the democratization of knowledge. *Additionally, they aid in combating the spread of misinformation and disinformation, addressing systemic inequalities, and challenging the monopolization of wealth, knowledge, and power. Furthermore, they guide scientific efforts toward addressing pressing social issues.*
+Librarians play an indispensable role in advancing open science as facilitators, supporting researchers, and significantly contributing to the principles of collaboration and inclusivity. These values are crucial as they enable global participation in scientific endeavors, ultimately contributing to the democratization of knowledge. **Additionally, they aid in combating the spread of misinformation and disinformation, addressing systemic inequalities, and challenging the monopolization of wealth, knowledge, and power. Furthermore, they guide scientific efforts toward addressing pressing social issues.**
 
 Throughout this lesson, we will explore the implications of adopting more open and ethical research practices, establishing an environment where scientific information is accessible to all, and increasing the visibility and impact of scientific publications. It's important to acknowledge that open science presents challenges, and librarians must be proactive in addressing these obstacles to ensure that it does not exacerbate existing barriers.
 
 ## What is Open Science?
 
-The core aspects of Open Science are closely related to Article 27 of the [Universal Declaration of Human Rights by the United Nations])(https://www.ohchr.org/sites/default/files/UDHR/Documents/UDHR_Translations/eng.pdf), which acknowledges people's right to participate in scientific progress and enjoy its benefits. Open Science aims to make science accessible and collaborative for the benefit of society as a whole, aligning with this right.
+The core aspects of Open Science are closely related to Article 27 of the [Universal Declaration of Human Rights by the United Nations](https://www.ohchr.org/sites/default/files/UDHR/Documents/UDHR_Translations/eng.pdf), which acknowledges people's right to participate in scientific progress and enjoy its benefits. Open Science aims to make science accessible and collaborative for the benefit of society as a whole, aligning with this right.
 
 ::::::::::::::::::::::::::::::::::::: callout
 
@@ -43,11 +43,9 @@ A fundamental component is the active participation of all stakeholders, includi
 ## What are reproducibility and replicability
 
 
-Although many researchers use these terms interchangeably, and we will do so in this lesson, a _replication_ is a study where an independent group of researchers reproduces the methodologies of previous work, collects the data, and analyzes it following the procedures of the original study to see if they reach the same results. It assesses the consistency and generalizability of the findings. A _reproduction_, on the other hand, occurs when a group of independent researchers analyzes data previously collected by a different group, using those researchers' analysis plan, to determine if they reach the same result. It verifies the validity of the findings.
+**Although many researchers use these terms interchangeably, and we will do so in this lesson, a _replication_ is a study where an independent group of researchers reproduces the methodologies of previous work, collects the data, and analyzes it following the procedures of the original study to see if they reach the same results. It assesses the consistency and generalizability of the findings. A _reproduction_, on the other hand, occurs when a group of independent researchers analyzes data previously collected by a different group, using those researchers' analysis plan, to determine if they reach the same result. It verifies the validity of the findings.**
 
-Reproducibility and replicability are among the core objectives of science. However, for this to be possible, researchers need to describe their methods and processes in ways that others can repeat them. Open science practices make it possible for scientists to share the different stages of their workflow, making them accessible to other researchers.
-
-
+**Reproducibility and replicability are among the core objectives of science. However, for this to be possible, researchers need to describe their methods and processes in ways that others can repeat them. Open science practices make it possible for scientists to share the different stages of their workflow, making them accessible to other researchers.**
 
 ## The motivation behind open science
 
@@ -56,26 +54,26 @@ Implementing open practices in the scientific community is motivated by a range 
 
 ### Social Impact 
 
-Open science involves an unavoidable cultural shift. It ensures that research processes, methods, and data are transparent and easily accessible to others. This transparency facilitates the verification and reproducibility of research, enhancing the reliability of scientific findings. 
+Open science ensures that research processes, methods, and data are transparent and easily accessible to others. This transparency facilitates the verification and reproducibility of research, enhancing the reliability of scientific findings. 
 
-Open science practices can reduce barriers between researchers and other stakeholders, such as the public, policymakers, and practitioners, by offering them access to the different stages of the research workflow. This engagement has the potential to foster public trust in science and promote decision-making based on evidence.
+As a result, it can reduce barriers between researchers and other stakeholders, such as the public, policymakers, and practitioners, by offering them access to the different stages of the research workflow. 
 
 ### Equity and Inclusivity
 
-Open practices help level the playing field for researchers and institutions that may have limited access to expensive subscription-based journals or research databases. Open access and open data initiatives promote inclusivity and equal opportunity for researchers, regardless of their affiliation or location.
+Open practices help level the playing field for researchers and institutions that may have limited access to expensive subscription-based journals or research databases.
 
-These practices can promote empowering opportunities for researchers, celebrating diversity and inclusion, in contrast to closed and individual-centered data analysis approaches.
+Open access and open data initiatives promote empowering and equal opportunities for researchers, regardless of their affiliation or location, celebrating diversity and inclusion.
 
 ### Global Collaboration
 
-Open practices enable researchers from diverse geographical, cultural, and socioeconomic backgrounds to collaborate more effectively. It facilitates cross-border collaborations and the pooling of resources and expertise, leading to a broader and more inclusive scientific community. It can also provide greater opportunities for interdisciplinary research across institutions worldwide. 
+Open practices enable researchers from diverse geographical, cultural, and socioeconomic backgrounds to collaborate more effectively. It facilitates cross-border collaborations and the pooling of resources and expertise, leading to a broader and more inclusive scientific community.
 
 
 ### Accelerating Scientific Progress 
 
 Collaboration drives innovation. Open practices promote collaboration and knowledge sharing, allowing researchers to build upon existing work. This increases efficiency by reusing data, reducing costs, and avoiding duplicated work. This accelerates the pace of scientific discovery. 
 
-Greater efficiency and speed. Open data practices also drive efficiency by enabling real-time, data-driven decision-making (Adams, 2018; SPARC, n.d.). The sharing of data reduces transaction costs; increases reproducibility and reuse of data; decreases redundancy; and drives greater transparency, heightened efficiency, and accelerated sustainable innovation
+The sharing of data reduces transaction costs; increases reproducibility and reuse of data; decreases redundancy; and drives greater transparency, heightened efficiency, and accelerated sustainable innovation
 
 
 ::::::::::::::::::::::::::::::::::::: challenge 
@@ -88,27 +86,22 @@ Share your answers on the collaborative document.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-
-
-
-
 ## Challenges for adopting open science in Marginalized Communities
 
 ### The role of English as an interchange language in open science
 
-English is one of the most widely spoken and understood languages globally, which is why using English as a common language increases the accessibility of scientific research to a broader international audience and allows researchers from diverse linguistic backgrounds to collaborate and communicate effectively.
+English is one of the most widely spoken and understood languages globally, for this reason it is usual to take English as the language of scientific research that allows researchers from diverse linguistic backgrounds to collaborate and communicate effectively.
 
-However, while English serves as a valuable interchange language, making it the dominant language of science has a negative impact on non-English-speaking communities. 
+However, while English serves as a valuable interchange language, making it the dominant language of science has a negative impact on non-English-speaking communities. The language becomes a barrier to participating fully in discussions, publishing research, or collaborating with English-speaking researchers. It also hinders the understanding and engagement of individuals with science. 
 
-#### The Bias Produced by the Language Gap 
+**Language is deeply intertwined with culture.**
+By prioritizing English, we risk embedding cultural biases into scientific knowledge, marginalizing perspectives and practices from non-English-speaking regions. It can also reinforce power dynamics favoring English-speaking countries' interests and priorities rather than reflecting the global spectrum of challenges and needs. It can influence decision-making, funding allocation, and the overall direction of the scientific research agenda.
 
-For those whose native language is not English, the language is a barrier to participating fully in discussions, publishing research, or collaborating with English-speaking researchers. This can lead to the underrepresentation of valuable contributions. It also hinders the understanding and engagement of individuals with science. 
+**For non-English-speaking communities, learning the language is often reserved for people in a privileged position.**
+Not everyone has equal access to the resources needed to acquire a second language. This creates an inherent bias towards individuals with better access to educational materials, funds, and even time, further exacerbating global inequalities in scientific participation and representation.
 
-Language is deeply intertwined with culture. By prioritizing English, we risk embedding cultural biases into scientific knowledge, marginalizing perspectives and practices from non-English-speaking regions. It can also reinforce power dynamics favoring English-speaking countries' interests and priorities rather than reflecting the global spectrum of challenges and needs. It can influence decision-making, funding allocation, and the overall direction of scientific research.
-
-For non-English-speaking communities, learning the language is often reserved for people in a privileged position. Not everyone has equal access to the resources needed to acquire a second language. This creates an inherent bias towards individuals with better access to educational materials, funds, and even time, further exacerbating global inequalities in scientific participation and representation.
-
-At the same time, translation is a laborious and costly process that most often falls on the non-English speaker. One common practice in scientific journals in different languages is the translation of abstracts into English to enhance the visibility of the work and accessibility for individuals who only speak English. This practice is prevalent in most Latin American and Chinese journals, while it is extremely infrequent in English-language journals.
+**Translation is a laborious and costly process that most often falls on the non-English speaker.**
+One common practice in scientific journals in different languages is the translation of abstracts into English to enhance the visibility of the work and accessibility for individuals who only speak English. This practice is prevalent in most Latin American and Chinese journals, while it is extremely infrequent in English-language journals.
 
 ### The socio-economic limitations
 
