@@ -22,7 +22,7 @@ After attending this training, participants will be able to:
 
 ## Introduction
 
-Librarians play an indispensable role in advancing open science as facilitators, supporting researchers, and significantly contributing to the principles of collaboration and inclusivity. These values are crucial as they enable global participation in scientific endeavors, ultimately contributing to the democratization of knowledge. **Additionally, they aid in combating the spread of misinformation and disinformation, addressing systemic inequalities, and challenging the monopolization of wealth, knowledge, and power. Furthermore, they guide scientific efforts toward addressing pressing social issues.**
+Librarians play an indispensable role in advancing open science as facilitators, supporting researchers, and significantly contributing to the principles of collaboration and inclusivity. These values are crucial as they enable global participation in scientific endeavors, ultimately contributing to the democratization of knowledge. 
 
 Throughout this lesson, we will explore the implications of adopting more open and ethical research practices, establishing an environment where scientific information is accessible to all, and increasing the visibility and impact of scientific publications. It's important to acknowledge that open science presents challenges, and librarians must be proactive in addressing these obstacles to ensure that it does not exacerbate existing barriers.
 
@@ -40,12 +40,6 @@ This approach is underpinned by unprecedented advancements in digital technology
 
 A fundamental component is the active participation of all stakeholders, including society at large, to foster increased collaboration and transparency in the field of science. It seeks to involve social actors beyond the traditional scientific community by opening up the processes of creating, evaluating, and communicating scientific knowledge. 
 
-## What are reproducibility and replicability
-
-
-**Although many researchers use these terms interchangeably, and we will do so in this lesson, a _replication_ is a study where an independent group of researchers reproduces the methodologies of previous work, collects the data, and analyzes it following the procedures of the original study to see if they reach the same results. It assesses the consistency and generalizability of the findings. A _reproduction_, on the other hand, occurs when a group of independent researchers analyzes data previously collected by a different group, using those researchers' analysis plan, to determine if they reach the same result. It verifies the validity of the findings.**
-
-**Reproducibility and replicability are among the core objectives of science. However, for this to be possible, researchers need to describe their methods and processes in ways that others can repeat them. Open science practices make it possible for scientists to share the different stages of their workflow, making them accessible to other researchers.**
 
 ## The motivation behind open science
 
@@ -92,7 +86,7 @@ Share your answers on the collaborative document.
 
 English is one of the most widely spoken and understood languages globally, for this reason it is usual to take English as the language of scientific research that allows researchers from diverse linguistic backgrounds to collaborate and communicate effectively.
 
-However, while English serves as a valuable interchange language, making it the dominant language of science has a negative impact on non-English-speaking communities. The language becomes a barrier to participating fully in discussions, publishing research, or collaborating with English-speaking researchers. It also hinders the understanding and engagement of individuals with science. 
+However, while English serves as a valuable interchange language, making it the dominant language of science has a negative impact on non-English-speaking communities. It becomes a barrier to participating fully in discussions, publishing research, or collaborating with other groups. It also hinders the understanding and engagement of individuals with science. 
 
 **Language is deeply intertwined with culture.**
 By prioritizing English, we risk embedding cultural biases into scientific knowledge, marginalizing perspectives and practices from non-English-speaking regions. It can also reinforce power dynamics favoring English-speaking countries' interests and priorities rather than reflecting the global spectrum of challenges and needs. It can influence decision-making, funding allocation, and the overall direction of the scientific research agenda.
@@ -100,8 +94,8 @@ By prioritizing English, we risk embedding cultural biases into scientific knowl
 **For non-English-speaking communities, learning the language is often reserved for people in a privileged position.**
 Not everyone has equal access to the resources needed to acquire a second language. This creates an inherent bias towards individuals with better access to educational materials, funds, and even time, further exacerbating global inequalities in scientific participation and representation.
 
-**Translation is a laborious and costly process that most often falls on the non-English speaker.**
-One common practice in scientific journals in different languages is the translation of abstracts into English to enhance the visibility of the work and accessibility for individuals who only speak English. This practice is prevalent in most Latin American and Chinese journals, while it is extremely infrequent in English-language journals.
+**Translation is a laborious and costly process that most often falls on the non-English speakers.**
+One common practice in scientific journals of different languages is the translation of abstracts into English to enhance the visibility of the work and accessibility for individuals who only speak English. This practice is prevalent in most Latin American and Chinese journals, while it is extremely infrequent in English-language journals.
 
 ### The socio-economic limitations
 
@@ -131,10 +125,7 @@ Many academic systems place a high emphasis on publishing in well-established, o
 
 Some institutions or governments in low to middle-income countries do not have established policies or frameworks supportive of open science. The lack of a conducive environment or encouragement from the authorities can impede the integration of open practices.
 
-Addressing these barriers necessitates concerted efforts from the global scientific community, including providing financial support, improving digital infrastructure, offering training programs, promoting multilingualism, and advocating for policies that facilitate open science adoption in all regions.
-
-
-
+Addressing these barriers requires a collective effort from the global scientific community, encompassing financial support, enhancements in digital infrastructure, the implementation of training programs, the promotion of multilingualism, and the advocacy for policies that facilitate the adoption of open science worldwide.
 
 
 

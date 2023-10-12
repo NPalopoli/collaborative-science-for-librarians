@@ -1,6 +1,6 @@
 ---
 title: 'Latin American Initiatives'
-teaching: 25
+teaching: 40
 exercises: 2
 ---
 
