@@ -27,4 +27,4 @@ After attending this training, participants will be able to:
 
 ## Lesson prerequisites
 
-
+There are no prerequisites for this lesson

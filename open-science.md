@@ -6,7 +6,7 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-- Which obstacles related to language, socioeconomic status, and disabilities do marginalized communities experience when attempting to adopt an open science framework?
+- Which obstacles can we find when attempting to adopt an open science framework?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -15,20 +15,20 @@ exercises: 2
 After attending this training, participants will be able to:
 
 - Define open science and explain the motivation behind implementing open practices.
-- List current challenges with adopting open science for marginalized communities.
+- List current challenges with adopting open science for underrepresented communities.
 - List the benefits marginalized communities receive when collaborative science practices are adopted.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
 
-Librarians play an indispensable role in advancing open science as facilitators, supporting researchers, and significantly contributing to the principles of collaboration and inclusivity. These values are crucial as they enable global participation in scientific endeavors, ultimately contributing to the democratization of knowledge. Additionally, they aid in combating the spread of misinformation and disinformation, addressing systemic inequalities, and challenging the monopolization of wealth, knowledge, and power. Furthermore, they guide scientific efforts toward addressing pressing social issues.
+Librarians play an indispensable role in advancing open science as facilitators, supporting researchers, and significantly contributing to the principles of collaboration and inclusivity. These values are crucial as they enable global participation in scientific endeavors, ultimately contributing to the democratization of knowledge. *Additionally, they aid in combating the spread of misinformation and disinformation, addressing systemic inequalities, and challenging the monopolization of wealth, knowledge, and power. Furthermore, they guide scientific efforts toward addressing pressing social issues.*
 
 Throughout this lesson, we will explore the implications of adopting more open and ethical research practices, establishing an environment where scientific information is accessible to all, and increasing the visibility and impact of scientific publications. It's important to acknowledge that open science presents challenges, and librarians must be proactive in addressing these obstacles to ensure that it does not exacerbate existing barriers.
 
 ## What is Open Science?
 
-The core aspects of Open Science are closely related to Article 27 of the Universal Declaration of Human Rights by the United Nations, which acknowledges people's right to participate in scientific progress and enjoy its benefits. Open Science aims to make science accessible and collaborative for the benefit of society as a whole, aligning with this right.
+The core aspects of Open Science are closely related to Article 27 of the [Universal Declaration of Human Rights by the United Nations])(https://www.ohchr.org/sites/default/files/UDHR/Documents/UDHR_Translations/eng.pdf), which acknowledges people's right to participate in scientific progress and enjoy its benefits. Open Science aims to make science accessible and collaborative for the benefit of society as a whole, aligning with this right.
 
 ::::::::::::::::::::::::::::::::::::: callout
 
@@ -39,7 +39,6 @@ While there are several definitions of open science, in this lesson, we will fol
 This approach is underpinned by unprecedented advancements in digital technology and seeks to make information, data, and research findings more accessible through open access and more reliable through open data. 
 
 A fundamental component is the active participation of all stakeholders, including society at large, to foster increased collaboration and transparency in the field of science. It seeks to involve social actors beyond the traditional scientific community by opening up the processes of creating, evaluating, and communicating scientific knowledge. 
-
 
 ## What are reproducibility and replicability
 
