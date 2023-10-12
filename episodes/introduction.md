@@ -52,8 +52,8 @@ Do not force people to share their pronouns.
 
 ### Getting to Know Each Other
 
-If the Trainer has chosen an
-[icebreaker question](https://carpentries.github.io/instructor-training/icebreakers/index.html),
+What was your dream job as a kid?
+
 participate by writing your answers in the shared document for the workshop.
 
 :::
@@ -90,9 +90,9 @@ To begin class, each Trainer should give a brief introduction of themselves.
 
 ##  Overview on Open, Inclusive, and Collaborative Science for Librarians
 
-The main objective of this training is to help participants understand the motivations, principles, and potential benefits of open science for marginalized communities.
+The main objective of this training is to help participants understand the motivations, principles, and potential benefits of open science for underrepresented communities with a focus on Spanish-speaking research communities.
 
-During this training, we will introduce the concepts of open science and open practices, along with the motivations behind them and the challenges that many communities face when attempting to implement these principles. Furthermore, we will elaborate on the concept of digital accessibility, FAIR principles, and CARE principles, and discuss their impact on people's participation within the scientific community. Additionally, we will showcase various open science initiatives in Latin America and the diverse practices they employ to overcome the barriers faced by marginalized communities in the context of science and education.
+During this training, we will introduce the concept of open science, along with the motivations behind them and the challenges that many communities face when attempting to implement these principles. Furthermore, we will elaborate on the concept of digital accessibility, FAIR principles, and CARE principles, and discuss their impact on people's participation within the scientific community. Additionally, we will showcase various open science initiatives in Latin America and the diverse practices they employ to overcome the barriers faced by marginalized communities in the context of science and education.
 
 By the end of this training, the participants will have acquire information that will allow them to assess the levels of accessibility of different digital resources and virtual events. They will also be equipped to apply best practices for fostering a more inclusive research network for non-native English speakers.
 
@@ -100,13 +100,17 @@ By the end of this training, the participants will have acquire information that
 
 The declaration of 2023 as the Year of Open Science by NASA and other federal US agencies reflects the belief that open science is a pillar to ensure information access and the democratization of the scientific process. 
 
-As Chelle Gentemann, program scientist for NASA’s Transform to Open Science (TOPS) mission, recently shared in Nature,
+::::::::::::::::::::::::::::::::::::: callout
+
+Chelle Gentemann, program scientist for NASA’s Transform to Open Science (TOPS) mission, recently shared in Nature,
 
 _“I realized that open science isn’t just about tools. Open-science innovation is being driven by a global community with diverse perspectives. The scientific questions are more interesting and nuanced, the solutions better”_
 
+::::::::::::::::::::::::::::::::::::::::::::::::
+
 Open science communities and organizations serve as platforms where researchers and societal stakeholders converge to achieve results that are not only technically sound but also socially significant. This is made possible through the application of transparent, reproducible, and verifiable methods, engaging contributors from diverse regions, disciplines, and social contexts. However, non-native English-speaking researchers, educators, and professionals often encounter challenges in accessing the resources necessary to conduct their work, primarily due to limited funding, language barriers, and geographical constraints.
 
-Our objective is to shed light on how open science communities, particularly those in marginalized regions like Latin America, actively engage in implementing, teaching, and disseminating open practices and resources. Drawing upon experiences from Spanish-speaking communities of practice, we aim to collaborate with librarians to explore the specific challenges faced by these communities when dealing with data and other resources primarily available in English, which creates a language-based accessibility barrier. Through these discussions, we intend to address how open science practices can aid marginalized communities of scholars in overcoming obstacles related to language, socioeconomic status, and other factors, ultimately fostering a more inclusive scientific community.
+Our objective is to shed light on how open science communities, particularly those in regions like Latin America, actively engage in implementing, teaching, and disseminating open practices and resources. Drawing upon experiences from Spanish-speaking communities of practice, we aim to collaborate with librarians to explore the specific challenges faced by these communities when dealing with data and other resources primarily available in English, which creates a language-based accessibility barrier. Through these discussions, we intend to address how open science practices can aid marginalized communities of scholars in overcoming obstacles related to language, socioeconomic status, and other factors, ultimately fostering a more inclusive scientific community.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
@@ -118,7 +122,7 @@ associated with the lessons. They appear in the "Instructor View"
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- This training aims to help you understand the unique forms that open science takes in traditionally marginalized communities, so that you can promote these practices in the context of your work as a librarian from an inclusive perspective.
+- This training aims to help you understand the unique forms that open science takes in traditionally underrepresented communities, so that you can promote these practices in the context of your work as a librarian from an inclusive perspective.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
