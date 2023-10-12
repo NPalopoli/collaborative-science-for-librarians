@@ -23,9 +23,7 @@ After completing this episode, participants should be able to:
 
 ## Introduction
 
-This second lesson focuses on Digital Accessibility, FAIR, and CARE Principles in library science. In the context of open science, ensuring access and ethical data handling is an important skill for librarians to foster inclusivity and accessibility. Learning about these principles and guidelines serves as a catalyst for positive change across various dimensions of the library and scientific communities. 
-
-We will place our emphasis on the mentioned principles, recognizing that while they are not the sole components of inclusion and equity in open science, they do touch upon significant facets. First, we will delve into the concept of digital accessibility and its pivotal role in guaranteeing equitable access to scientific information and resources. Next, we will work towards acquiring the knowledge and tools required to promote the FAIR Principles, facilitating the efficient organization and sharing of data. Lastly, we will acquaint ourselves with the CARE Principles, which highlight ethical responsibilities and make valuable contributions to a more accessible and inclusive open science ecosystem.
+This second lesson focuses on Digital Accessibility, FAIR, and CARE Principles in library science. First, we will delve into the concept of digital accessibility and its pivotal role in guaranteeing equitable access to scientific information and resources. Next, we will work towards acquiring the knowledge and tools required to promote the FAIR Principles, facilitating the efficient organization and sharing of data. Lastly, we will acquaint ourselves with the CARE Principles, which highlight ethical responsibilities and make valuable contributions to a more accessible and inclusive open science ecosystem.
 
 ## Digital accesibility in open science
 
@@ -53,13 +51,9 @@ Some Latin American estimations:
 
 Digital accessibility ensures that technologies and information are available and effectively usable by all individuals, including those with disabilities. Its promotion fosters autonomy, social inclusion, and equal opportunities in the digital society. It benefits individuals with disabilities, older adults, those with limited technological literacy, and those who rely on assistive devices.
 
-Understanding digital accessibility in the library environment is essential to provide all users equal access to information and online services. Promoting digital accessibility and removing barriers ensures all users can fully benefit from digital resources. It also enables librarians to provide the necessary assistance to reference accessible information and promotes the intellectual production of new resources considering aspects that favor accessibility.
-
 ## Promoting digital accesibility in research
 
-Librarians play a crucial role in improving digital accessibility by providing support, resources, and guidance. There are several ways to contribute to digital content becoming more inclusive.
-
-Let's start by identifying some key elements of digital accessibility:
+Librarians play a crucial role in improving digital accessibility by providing support, resources, and guidance. Let's start by identifying some key elements of digital accessibility:
 
 - Text content should be clear, concise, and formatted in a simple manner. This helps users to easily understand and navigate information.
 
@@ -120,10 +114,10 @@ B is correct
 
 ## FAIR principles and data accessibility in open data practices.
 
-While digital accessibility focuses on making digital content inclusive and user-friendly, data accessibility is concerned with making data sets, databases, and research findings open and accessible to researchers, policymakers, and the public. 
+While digital accessibility focuses on making digital content inclusive and user-friendly, data accessibility is concerned with making data sets, databases, and research findings open and accessible to researchers, policymakers, and the general public. 
 
-Data accessibility involves adopting practices such as the ones described in the FAIR Principles. These are a set of guidelines and best practices designed to improve reusability of data, which refers to the ability to use existing data for different purposes beyond the original intent of its collection. It involves making data understandable, well-documented, organized, and stored in a way that allows others to effectively utilize it in various contexts and for different analyses, experiments, or applications. The great value of data lies in their ability to be reusable in order to accelerate scientific discoveries and save costs in their creation. 
-The FAIR acronym stands for findability, accessibility, interoperability, and reusability of data (or any digital object), metadata (information about that digital object), and infrastructure, particularly in the area of data and scientific research. 
+The FAIR principles are a set of guidelines and best practices designed to improve reusability of data, which refers to the ability to use existing data for different purposes beyond the original intent of its collection. It involves making it understandable, well-documented, organized, and stored in a way that allows others to effectively utilize it in various contexts and for different analyses, experiments, or applications.  
+The FAIR acronym stands for findability, accessibility, interoperability, and reusability of data (or any digital object), metadata (information about that digital object), and infrastructure. 
 
 
 Check out the Go Fair website: [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/) 
@@ -135,7 +129,7 @@ The FAIR principles emphasizes that data and associated metadata should be easil
 
 #### A globally unique and persistent identifier for data and metadata
 
-In order to be findable, (Meta) data should have assigned a globally unique and persistent identifier. These identifiers, which consist of an internal link, remove ambiguity in the meaning of the published data, they make it findable, they allow computers to interpret it in a meaningful way, and they help the people who reuse it to properly cite it. Many data repositories will automatically generate them when you store a datasets, but you can also use registry services that use algorithms to guarantee the uniqueness of the generated identifiers.
+In order to be findable, (Meta) data should be assigned a globally unique and persistent identifier. These identifiers remove ambiguity in the meaning of the published data, they make it findable, they allow computers to interpret it in a meaningful way, and they help the people who reuse it to properly cite it. Many data repositories will automatically generate them when you store a datasets, but you can also use registry services that use algorithms to guarantee the uniqueness of the generated identifiers.
 
 A few examples:
 
@@ -144,9 +138,9 @@ A few examples:
 - [https://identifiers.org](https://identifiers.org)
 - [https://www.crossref.org/services/funder-registry/](https://www.crossref.org/services/funder-registry/)
 
-#### The importance of a descriptive metadata
+#### Descriptive metadata
 
-Metadata provide essential context about the data, describing its content, structure, source, and other pertinent information. Extensive and descriptive metadata makes it possible to automatize some routine tasks which currently demand a lot of attention from researchers. For example, machine-readable metadata enable automated discovery, indexing, and retrieval of datasets, making it easier for both humans and machines to locate relevant data efficiently. They should be able to locate any dataset based on the information provided by their metadata, so the richer the better!
+Metadata provide essential context about the data, describing its content, structure, source, and other pertinent information. Extensive and descriptive metadata makes it possible to automatize some routine tasks which currently demand a lot of attention from researchers. For example, machine-readable metadata enable automated discovery, indexing, and retrieval of datasets, making it easier for both humans and machines to locate relevant data efficiently. 
 Typically, the metadata and the dataset are stored as distinct files. It is important to establish a clear link between both of them by referencing the globally unique and persistent identifier within the metadata. 
 
 Examples of metadata frameworks:
@@ -291,15 +285,6 @@ D) Safeguarding data from unauthorized access and use.
 C is correct
 
 :::::::::::::::::::::::::::::::::
-
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
-
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 
 
 
