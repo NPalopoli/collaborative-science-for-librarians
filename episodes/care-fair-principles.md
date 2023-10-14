@@ -6,8 +6,8 @@ exercises: 2
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How can the accessibility of digital resources and the FAIR and CARE principles promote the involvement of marginalized communities in the open science framework?
-
+- How does ensuring the accessibility of digital resources contribute to the active participation of underrepresented communities in the open science framework?
+- In what ways can adherence to the FAIR and CARE principles empower the engagement in open science efforts?
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
@@ -17,19 +17,23 @@ After completing this episode, participants should be able to:
 - Explain how the accessibility of digital resources enhances the implementation of open science practices
 - Define how the FAIR principles are used to guide open data practices 
 - Describe how the CARE principles provide a framework that supports marginalized individuals and communities in regaining control over their materials
-
-
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
 
-This second lesson focuses on Digital Accessibility, FAIR, and CARE Principles in library science. First, we will delve into the concept of digital accessibility and its pivotal role in guaranteeing equitable access to scientific information and resources. Next, we will work towards acquiring the knowledge and tools required to promote the FAIR Principles, facilitating the efficient organization and sharing of data. Lastly, we will acquaint ourselves with the CARE Principles, which highlight ethical responsibilities and make valuable contributions to a more accessible and inclusive open science ecosystem.
+This second lesson focuses on Digital Accessibility, FAIR, and CARE Principles in library science. 
+
+First, we will delve into the concept of digital accessibility and its pivotal role in guaranteeing equitable access to scientific information and resources. 
+
+Next, we will work towards acquiring the knowledge and tools required to promote the FAIR Principles, facilitating the efficient organization and sharing of data. 
+
+Lastly, we will acquaint ourselves with the CARE Principles, which highlight ethical responsibilities and make valuable contributions to a more accessible and inclusive open science ecosystem.
 
 ## Digital accesibility in open science
 
 In educational and research institutions, groups are characterized by a diverse range of cultural backgrounds, gender identities, native languages, socioeconomic statuses, ages, abilities, among other attributes. Individuals can experience multiple forms of discrimination or privilege simultaneously, based on these intersecting social identities.  
 
-As a fundamental human right, digital accesibility seeks to eliminate attitudinal, policy, and social barriers to enable all individuals to fully engage in the digital world.
+As a fundamental human right, digital accessibility seeks to eliminate attitudinal, policy, and social barriers to enable all individuals to fully engage in the digital world.
 
 ::::::::::::::::::::::::::::::::::::: callout
 
@@ -51,29 +55,29 @@ Some Latin American estimations:
 
 Digital accessibility ensures that technologies and information are available and effectively usable by all individuals, including those with disabilities. Its promotion fosters autonomy, social inclusion, and equal opportunities in the digital society. It benefits individuals with disabilities, older adults, those with limited technological literacy, and those who rely on assistive devices.
 
-## Promoting digital accesibility in research
+### Promoting digital accesibility in research
 
 Librarians play a crucial role in improving digital accessibility by providing support, resources, and guidance. Let's start by identifying some key elements of digital accessibility:
 
-- Text content should be clear, concise, and formatted in a simple manner. This helps users to easily understand and navigate information.
+- **Text content** should be clear, concise, and formatted in a simple manner. This helps users to easily understand and navigate information.
 
-- Images should provide alternative text or alt text that describes the content and function of the image, making them accessible to individuals who use screen readers or have visual impairments.
+- **Images** should provide alternative text or alt text that describes the content and function of the image, making them accessible to individuals who use screen readers or have visual impairments.
 
-- Color combinations should have sufficient contrast to ensure readability for all users. This is especially important for text and background colors to accommodate individuals with visual impairments.
+- **Color** combinations should have sufficient contrast to ensure readability for all users. This is especially important for text and background colors to accommodate individuals with visual impairments.
 
-- Videos should include subtitles and audio content. Subtitles provide a text-based version of spoken content, benefiting individuals who are deaf or hard of hearing.
+- **Videos** should include subtitles and audio content. Subtitles provide a text-based version of spoken content, benefiting individuals who are deaf or hard of hearing.
 
-- Transcripts for video and audio content should be available. Transcripts provide a written version of spoken content, making it accessible to those who prefer to read or need an alternative format.
+- **Transcripts** for video and audio content should be available. Transcripts provide a written version of spoken content, making it accessible to those who prefer to read or need an alternative format.
 
-There are different ways in which librarian's can contribute to enhance accessibility for researchers:
+#### There are different ways in which librarian's can contribute to enhance accessibility for researchers:
 
-- Teaching about digital accessibility best practices. Help researchers create accessible documents, websites, and presentations. Also, guide on using accessible research tools and software.
+- Teach about digital accessibility best practices. Help creating accessible documents, websites, and presentations. 
 
 - Curate and promote accessible resources, databases, and platforms. 
 
 - Provide consultations for researchers who need assistance making their research materials and presentations accessible. 
 
-- Make accessibility tools and software available to researchers. 
+- Make accessibility tools and software available to researchers and guide on how to use them.
 
 - Offer document conversion services to make research materials accessible. 
 
@@ -83,12 +87,11 @@ There are different ways in which librarian's can contribute to enhance accessib
 
 Bear in mind that thinking about accessibility helps create and promote digital products and interfaces that are intuitive, flexible, and usable for a diverse audience, ultimately improving the experience for all individuals.
 
-
 ::::::::::::::::::::::::::::::::::::: callout
 
 Universal design:
 
-_The design of products and environments to be useable by all people, to the greatest extent possible, without the need for adaptation or specialized design_
+_The design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design_
 
 Steinfeld E, Maisel J. Universal design: creating inclusive environments. New Jersey (NJ): Wiley; 2012.
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -116,20 +119,23 @@ B is correct
 
 While digital accessibility focuses on making digital content inclusive and user-friendly, data accessibility is concerned with making data sets, databases, and research findings open and accessible to researchers, policymakers, and the general public. 
 
-The FAIR principles are a set of guidelines and best practices designed to improve reusability of data, which refers to the ability to use existing data for different purposes beyond the original intent of its collection. It involves making it understandable, well-documented, organized, and stored in a way that allows others to effectively utilize it in various contexts and for different analyses, experiments, or applications.  
+The FAIR principles are a set of guidelines and best practices designed to improve reusability of data, which refers to the ability to use existing data for different purposes beyond the original intent of its collection. 
+
 The FAIR acronym stands for findability, accessibility, interoperability, and reusability of data (or any digital object), metadata (information about that digital object), and infrastructure. 
 
-
+::::::::::::::::::::::::::::::::::::: callout
 Check out the Go Fair website: [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/) 
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Data should be _Findable_
 
-The FAIR principles emphasizes that data and associated metadata should be easily discoverable and accessible by both humans and computers. This ensures that researchers, scientists, and practitioners can efficiently locate the data they need for their work.
-
+Data and associated metadata should be easily discoverable and accessible by both humans and computers. This ensures that researchers, scientists, and practitioners can efficiently locate the data they need for their work.
 
 #### A globally unique and persistent identifier for data and metadata
 
-In order to be findable, (Meta) data should be assigned a globally unique and persistent identifier. These identifiers remove ambiguity in the meaning of the published data, they make it findable, they allow computers to interpret it in a meaningful way, and they help the people who reuse it to properly cite it. Many data repositories will automatically generate them when you store a datasets, but you can also use registry services that use algorithms to guarantee the uniqueness of the generated identifiers.
+In order to be findable, (Meta) data should be assigned a globally unique and persistent identifier. These identifiers remove ambiguity in the meaning of the published data, they make it findable, allow computers to interpret it in a meaningful way, and help the people who reuse it to properly cite it. 
+
+Many data repositories will automatically generate them when you store a datasets, but you can also use registry services that use algorithms to guarantee the uniqueness of the generated identifiers.
 
 A few examples:
 
@@ -140,8 +146,7 @@ A few examples:
 
 #### Descriptive metadata
 
-Metadata provide essential context about the data, describing its content, structure, source, and other pertinent information. Extensive and descriptive metadata makes it possible to automatize some routine tasks which currently demand a lot of attention from researchers. For example, machine-readable metadata enable automated discovery, indexing, and retrieval of datasets, making it easier for both humans and machines to locate relevant data efficiently. 
-Typically, the metadata and the dataset are stored as distinct files. It is important to establish a clear link between both of them by referencing the globally unique and persistent identifier within the metadata. 
+Metadata provide essential context about the data, describing its content, structure, source, and other pertinent information. Extensive and descriptive metadata makes it possible to automatize some routine tasks which currently demand a lot of attention from researchers.
 
 Examples of metadata frameworks:
 
@@ -151,26 +156,27 @@ Examples of metadata frameworks:
 
 #### Searchable resources to register or index data
 
-Merely having an identifier and detailed metadata is not enough. The highest quality and most comprehensive datasets or digital resources are essentially useless if users are unaware of their existence.The process of ensuring discoverability of digital resources, particularly scholarly research data, is a critical step in facilitating efficient access and utilization of valuable information. There are various methods that address this issue:
+Merely having an identifier and detailed metadata is not enough. The highest quality and most comprehensive datasets or digital resources are essentially useless if users are unaware of their existence. The process of ensuring discoverability of digital resources, particularly scholarly research data, is a critical step in facilitating efficient access and utilization of valuable information. 
 
-- Indexing: Utilizing search engine indexing, as demonstrated by search engines like Google, is a potent method. Search engines send out crawlers that analyze web content, index it, and make it searchable. However, for scholarly research data, specialized indexing approaches tailored to the academic domain are necessary.
+There are various methods that address this issue:
 
-- Specialized Repositories and Catalogs: Uploading data to specialized repositories or catalogs relevant to the specific field of research enhances discoverability within the target audience. Researchers often turn to these curated platforms to find relevant data for their projects.
+- **Indexing:** Search engines send out crawlers that analyze web content, index it, and make it searchable. For scholarly research data, specialized indexing approaches tailored to the academic domain are necessary.
 
-- Cross-Linking and References: Creating links from related publications, datasets, or similar resources to the target dataset or resource can significantly boost discoverability. Academic papers that cite or reference the data also indirectly enhance its visibility.
+- **Specialized Repositories and Catalogs:** Uploading data to specialized repositories or catalogs relevant to the specific field of research enhances discoverability within the target audience.
 
+- **Cross-Linking and References:** Creating links from related publications, datasets, or similar resources to the target dataset or resource can significantly boost discoverability. Academic papers that cite or reference the data also indirectly enhance its visibility.
 
 ### Data should be _Accesible_
 
 Within the FAIR principles, making the data accessible refers to making it easily available and retrievable to users and systems. It implies: 
 
-- Clear Access Protocols: the protocol (HTTP, FTP, SMTP…) should be free (no-cost) and open (-sourced) and thus globally implementable to facilitate data retrieval and should ensure Metadata is accessible, even when the data are no longer available
+- **Clear Access Protocols:** the protocol (HTTP, FTP, SMTP…) should be free (no-cost) and open (-sourced) and thus globally implementable to facilitate data retrieval and should ensure Metadata is accessible, even when the data are no longer available
 
-- Data Repositories: Storing data in reputable and accessible repositories or data centers, which offer standardized access methods (e.g., APIs, web interfaces), enhances accessibility.
+- **Data Repositories:** Storing data in reputable and accessible repositories or data centers, which offer standardized access methods (e.g., APIs, web interfaces), enhances accessibility.
 
-- Standardized Formats: Using widely accepted and standard data formats, such as Comma-Separated Values files, makes it easier for both humans and machines to access and interpret the data.
+- **Standardized Formats:** Using widely accepted and standard data formats, such as Comma-Separated Values files, makes it easier for both humans and machines to access and interpret the data.
 
-- Compliance with Legal and Ethical Standards: Ensuring that data access complies with legal, ethical, and privacy standards to protect sensitive information while enabling appropriate accessibility.
+- **Compliance with Legal and Ethical Standards:** Ensuring that data access complies with legal, ethical, and privacy standards to protect sensitive information while enabling appropriate accessibility.
 
 ### Data should be _Interoperable_
 
@@ -183,7 +189,7 @@ Data should be easily integrated with other datasets, applications, workflows of
 The ultimate goal of FAIR is to optimize the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings:
 
 - Described with accurate and relevant details.
-With a clear and easy-to-understand license for usage.
+- With a clear and easy-to-understand license for usage.
 - Linked to its complete history and origin.
 - Adhering to the standards relevant to its field.
 
@@ -222,16 +228,15 @@ Also known as "gold" open access, it involves making research outputs freely acc
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-
 ## CARE principles and open science
 
 The CARE Principles for Indigenous Data Governance are a set of guidelines developed to address the unique needs and considerations related to the collection, use, and management of data pertaining to Indigenous people and communities. The acronym stands for Collective Benefit, Authority to Control, Responsibility, and Ethics.
 
 ### _Collective Benefit_ from the data ecosystems design and function 
 
-- For inclusive development and innovation, the use of data should be facilitated by establishing the foundations for Indigenous innovation, value generation, and the promotion of local self-determined development processes. 
-- For improved governance and citizen engagement, to enrich the planning, implementation, and evaluation processes that support the service and policy needs of Indigenous communities. Data also enable better engagement between citizens, institutions, and governments to improve decision-making.
-- For equitable outcomes, Any value created from Indigenous data should benefit Indigenous communities and contribute to their well-being. 
+- The use of data should be facilitated by establishing the foundations for Indigenous innovation, value generation, and the promotion of local self-determined development processes. 
+- The use of data should enrich the planning, implementation, and evaluation processes that support the service and policy needs of Indigenous communities.
+- Any value created from Indigenous data should benefit Indigenous communities and contribute to their well-being. 
 
 ### _Authority to Control_ data
 
@@ -249,12 +254,11 @@ The CARE Principles for Indigenous Data Governance are a set of guidelines devel
 
 - For minimizing harm and maximizing benefit, aligning the data treatment with Indigenous ethical frameworks and rights affirmed in UNDRIP. 
 - For justice that rectifies power and resource imbalances affecting Indigenous and human rights expression.
-
 - For future use acknowledging the provenance and purpose and any limitations or obligations in secondary use, inclusive of issues of consent. 
 
 ### Overall...
 
-The CARE principles empower marginalized individuals and communities to actively participate in the management and sharing of their research and data through: 
+The CARE principles empower underrepresented individuals and communities to actively participate in the management and sharing of their research and data through: 
 
 - Respecting the sovereignty of Indigenous communities, honoring their rights to self-governance and self-determination.
 

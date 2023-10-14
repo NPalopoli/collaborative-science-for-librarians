@@ -163,7 +163,7 @@ There are some examples of projects fostered by the participation in communities
 
 [Mapping open-science communities, organizations, and events in Latin America](https://ciencia-abierta-en-latinoamerica.netlify.app/). Motivated by the need for a centralized hub of information useful not only to us but that could potentially help other individuals and communities. So we decided to create a repository that collects and centralizes open resources with a focus on Latin America, such as communities, events, workshops, and funders. 
 
-You can find more information about Latin American communities of practice [here](https://www.metadocencia.org/en/post/communities-of-practice-la/).
+You can find more information about [Latin American communities of practice] (https://www.metadocencia.org/en/post/communities-of-practice-la/).
 
 
 ::::::::::::::::::::::::::::::::::::: challenge 
