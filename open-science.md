@@ -101,33 +101,32 @@ One common practice in scientific journals of different languages is the transla
 
 Being a researcher in a low to middle-income country (LMIC) can present several barriers to adopting open science practices:
 
-- Limited Access to Resources:
+- Limited Access to Resources
 
 Researchers in LMICs often lack access to necessary resources such as high-speed internet, computing infrastructure, software, and relevant literature. Open science heavily relies on digital platforms and resources, and the absence of these can hinder their adoption.
 
-- Financial constraints:
+- Financial constraints
 
-Open-access publishing, attending open science-related conferences, or accessing open educational resources often incur costs and the financial burden may limit the researchers' participation in open science practices.  
+Open-access publishing, attending open science-related conferences, or accessing open educational resources often incur costs and the financial burden may limit the researchers' participation in open science practices.
 
-- Lack of Funding and Support:
+- Lack of Funding and Support
 
-At the same time, research funding is scarce. The limited availability of grants or funding for open science initiatives may discourage researchers from actively participating or investing time in adopting these practices.
+The limited availability of grants or funding for open science initiatives may discourage researchers from actively participating or investing time in adopting these practices.
 
 - Lack of training opportunities
 
 Awareness and understanding of open science practices may be lacking or insufficient in LMICs due to limited training opportunities. Researchers are not often familiar with the benefits or methodologies associated with open science.
 
-- Publishing Pressures and Incentives:
+- Publishing Pressures and Incentives
 
-Many academic systems place a high emphasis on publishing in well-established, often subscription-based, journals. Researchers in LMICs frequently face pressure to conform to traditional publishing practices rather than exploring open access options due to concerns about career progression and recognition. 
+Researchers in LMICs frequently face pressure to conform to traditional publishing practices rather than exploring open access options due to concerns about career progression and recognition. 
 
-- Policy and Institutional Constraints:
+- Policy and Institutional Constraints
 
 Some institutions or governments in low to middle-income countries do not have established policies or frameworks supportive of open science. The lack of a conducive environment or encouragement from the authorities can impede the integration of open practices.
 
+
 Addressing these barriers requires a collective effort from the global scientific community, encompassing financial support, enhancements in digital infrastructure, the implementation of training programs, the promotion of multilingualism, and the advocacy for policies that facilitate the adoption of open science worldwide.
-
-
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
@@ -148,17 +147,16 @@ Share your answers on the collaborative document.
 
 Open science can promote diversity, inclusivity, and equitable participation in research helping mitigate several obstacles and barriers:
 
-- Free access to research results: removes economic barriers, providing equality to individuals with limited resources. This diversifies scientific participation, enriching perspectives, and promoting inclusive and relevant innovations for diverse communities. Individuals with lower socioeconomic status can access the same high-quality scientific information as those with higher socioeconomic standing.
+- Free access to research results: removes economic barriers, providing equality to individuals with limited resources providing access to high-quality scientific information.
 
 - Collaborative research and resource sharing: reduce costs and overcome barriers, enabling scientists to participate in projects that may have been individually unaffordable for them. This collaboration not only promotes inclusion but also harnesses a broader range of knowledge and experiences through funding, equipment, and expertise, reducing the burden on individual researchers or institutions with limited resources.
 
-- Fostering diversity, inclusion, and equitable participation: is crucial for representing a variety of perspectives and talents worldwide. Adapting open science practices to local needs and overcoming economic and cultural barriers is essential. Encouraging the active participation of individuals with disabilities in collaborative research projects promotes diversity and ensures that their unique perspectives and expertise are valued.
+- Fostering diversity, inclusion, and equitable participation:Adapting open science practices to local needs and overcoming economic and cultural barriers is essential. Encouraging the active participation of individuals with disabilities in collaborative research projects promotes diversity and ensures that their unique perspectives and expertise are valued.
 
 - Diverse Collaboration Networks: collaboration among researchers from different linguistic backgrounds can foster the exchange of ideas and knowledge. Inclusive research teams that value diverse linguistic skills can collectively contribute to overcoming language barriers. 
 
 Check out this post:
 https://www.metadocencia.org/en/post/open-science-latin-america/
-
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 

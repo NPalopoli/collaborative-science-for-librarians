@@ -1,7 +1,5 @@
 ---
-title: "Break"
-teaching: 0
-exercises: 0
+title: 'Break'
 break: 5
 ---
 
