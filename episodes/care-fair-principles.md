@@ -1,7 +1,7 @@
 ---
 title: 'Digital accessibility, FAIR, and CARE principles'
 teaching: 40
-exercises: 2
+exercises: 5
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -71,13 +71,15 @@ Librarians play a crucial role in improving digital accessibility by providing s
 
 #### There are different ways in which librarian's can contribute to enhance accessibility for researchers:
 
-- Teach about digital accessibility best practices. Help creating accessible documents, websites, and presentations. 
+- Teach about digital accessibility best practices. 
+
+- Help creating accessible documents, websites, and presentations. 
 
 - Curate and promote accessible resources, databases, and platforms. 
 
 - Provide consultations for researchers who need assistance making their research materials and presentations accessible. 
 
-- Make accessibility tools and software available to researchers and guide on how to use them.
+- Make accessibility tools and software available to researchers and guide them on how to use them.
 
 - Offer document conversion services to make research materials accessible. 
 
@@ -121,11 +123,19 @@ While digital accessibility focuses on making digital content inclusive and user
 
 The FAIR principles are a set of guidelines and best practices designed to improve reusability of data, which refers to the ability to use existing data for different purposes beyond the original intent of its collection. 
 
-The FAIR acronym stands for findability, accessibility, interoperability, and reusability of data (or any digital object), metadata (information about that digital object), and infrastructure. 
+The FAIR acronym stands for Findability, Accessibility, Interoperability, and Reusability of data (or any digital object), metadata (information about that digital object), and infrastructure. 
 
 ::::::::::::::::::::::::::::::::::::: callout
+
 Check out the Go Fair website: [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/) 
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Post the link on the chat.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Data should be _Findable_
 
@@ -144,6 +154,12 @@ A few examples:
 - [https://identifiers.org](https://identifiers.org)
 - [https://www.crossref.org/services/funder-registry/](https://www.crossref.org/services/funder-registry/)
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Post one or two examples in the chat and mention they can find other links in the course website.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 #### Descriptive metadata
 
 Metadata provide essential context about the data, describing its content, structure, source, and other pertinent information. Extensive and descriptive metadata makes it possible to automatize some routine tasks which currently demand a lot of attention from researchers.
@@ -158,7 +174,11 @@ Examples of metadata frameworks:
 
 Merely having an identifier and detailed metadata is not enough. The highest quality and most comprehensive datasets or digital resources are essentially useless if users are unaware of their existence. The process of ensuring discoverability of digital resources, particularly scholarly research data, is a critical step in facilitating efficient access and utilization of valuable information. 
 
-There are various methods that address this issue:
+There are various methods that address this issue, such as indexing, specializes repositories, and cross-linling refences. 
+
+::::::::::::::::::::::::::::::::::::: callout
+
+
 
 - **Indexing:** Search engines send out crawlers that analyze web content, index it, and make it searchable. For scholarly research data, specialized indexing approaches tailored to the academic domain are necessary.
 
@@ -166,11 +186,15 @@ There are various methods that address this issue:
 
 - **Cross-Linking and References:** Creating links from related publications, datasets, or similar resources to the target dataset or resource can significantly boost discoverability. Academic papers that cite or reference the data also indirectly enhance its visibility.
 
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 ### Data should be _Accesible_
 
 Within the FAIR principles, making the data accessible refers to making it easily available and retrievable to users and systems. It implies: 
 
-- **Clear Access Protocols:** the protocol (HTTP, FTP, SMTP…) should be free (no-cost) and open (-sourced) and thus globally implementable to facilitate data retrieval and should ensure Metadata is accessible, even when the data are no longer available
+- **Clear Access Protocols:** the protocol (HTTP, FTP, SMTP…) should be free (no-cost) and open (-sourced) and thus globally implementable to facilitate data retrieval and should ensure Metadata are accessible, even when the data are no longer available
 
 - **Data Repositories:** Storing data in reputable and accessible repositories or data centers, which offer standardized access methods (e.g., APIs, web interfaces), enhances accessibility.
 
@@ -242,12 +266,12 @@ The CARE Principles for Indigenous Data Governance are a set of guidelines devel
 
 - Recognizing rights and interests in Indigenous Knowledge and data, including their right to consent in data collection and policy development.
 - Data for governance must be made available and aligned with their worldviews for self-determination and governance.
-- Governance of data to set data governance rules, especially Indigenous Knowledge, and lead in its stewardship and access.
+- Creation of protocols to control the management and access to information.
 
-### _Responsibility_ of Those working with Indigenous data
+### _Responsibility_ of those working with Indigenous data
 
-- For positive relationships, built on respect, trust, and dignity for Indigenous Peoples.
-- For expanding capability and capacity through the mutual responsibility for improving competencies and creating the digital infrastructure for data creation, collection, administration, security, governance, and usability.
+- For establishing positive relationships, built on respect, trust, and dignity for Indigenous Peoples.
+- For enhancing the communities competencies to create the digital infrastructure for data creation, collection, administration, security, governance, and usability.
 - For Indigenous languages and worldviews, and lived experiences, including values and principles.
 
 ### _Ethics_ in the data life cycle and across the data ecosystem

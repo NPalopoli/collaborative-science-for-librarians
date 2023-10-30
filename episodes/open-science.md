@@ -1,11 +1,12 @@
 ---
 title: "Open, collaborative, and inclusive science"
-teaching: 40
-exercises: 2
+teaching: 30
+exercises: 20
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions
 
+- What is open science?
 - Which obstacles can we find when attempting to adopt an open science framework?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -74,11 +75,18 @@ The sharing of data reduces transaction costs; increases reproducibility and reu
 
 ## DISCUSSION: 
 
-(In groups, 15 minutes): visit the website of the [Psychological Science Accelerator](https://psysciacc.org/) and read briefly about the project. Then discuss with your group how you can collaborate on a project with these characteristics as a librarian.
+(In groups, 10 minutes): visit the website of the [Psychological Science Accelerator](https://psysciacc.org/) and read briefly about the project. Then discuss with your group how you can collaborate on a project with these characteristics as a librarian.
 
 Share your answers on the collaborative document.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Take 5 minutes to read an comment some of the answers.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Challenges for adopting open science in Marginalized Communities
 
@@ -132,7 +140,7 @@ Addressing these barriers requires a collective effort from the global scientifi
 
 ## DISCUSSION: THINKING ABOUT OPEN SCIENCE BARRIERS
 
-(In groups, 15 minutes): Think about your experience working with open science and answer the following questions:
+(In groups, 10 minutes): Think about your experience working with open science and discuss the following questions:
 
 1. Which limitations or difficulties have you encountered?
 2. How do you think those difficulties affect the implementation of open science in marginalized communities?
@@ -143,6 +151,12 @@ Share your answers on the collaborative document.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Take 5 minutes to read an comment some of the answers.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Benefits of Collaborative Science for Marginalized Communities
 
 Open science can promote diversity, inclusivity, and equitable participation in research helping mitigate several obstacles and barriers:
@@ -151,12 +165,18 @@ Open science can promote diversity, inclusivity, and equitable participation in 
 
 - Collaborative research and resource sharing: reduce costs and overcome barriers, enabling scientists to participate in projects that may have been individually unaffordable for them. This collaboration not only promotes inclusion but also harnesses a broader range of knowledge and experiences through funding, equipment, and expertise, reducing the burden on individual researchers or institutions with limited resources.
 
-- Fostering diversity, inclusion, and equitable participation:Adapting open science practices to local needs and overcoming economic and cultural barriers is essential. Encouraging the active participation of individuals with disabilities in collaborative research projects promotes diversity and ensures that their unique perspectives and expertise are valued.
+- Fostering diversity, inclusion, and equitable participation: Adapting open science practices to local needs and overcoming economic and cultural barriers is essential. Encouraging the active participation of individuals with disabilities in collaborative research projects promotes diversity and ensures that their unique perspectives and expertise are valued.
 
 - Diverse Collaboration Networks: collaboration among researchers from different linguistic backgrounds can foster the exchange of ideas and knowledge. Inclusive research teams that value diverse linguistic skills can collectively contribute to overcoming language barriers. 
 
 Check out this post:
 https://www.metadocencia.org/en/post/open-science-latin-america/
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Post the link on the chat.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
