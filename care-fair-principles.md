@@ -1,7 +1,7 @@
 ---
 title: 'Digital accessibility, FAIR, and CARE principles'
-teaching: 40
-exercises: 5
+teaching: 30
+exercises: 15
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -264,7 +264,7 @@ The CARE Principles for Indigenous Data Governance are a set of guidelines devel
 
 ### _Authority to Control_ data
 
-- Recognizing rights and interests in Indigenous Knowledge and data, including their right to consent in data collection and policy development.
+- Recognizing the interests in Indigenous Knowledge and data, and the Indigenous people's right to consent in data collection and policy development.
 - Data for governance must be made available and aligned with their worldviews for self-determination and governance.
 - Creation of protocols to control the management and access to information.
 
@@ -276,9 +276,11 @@ The CARE Principles for Indigenous Data Governance are a set of guidelines devel
 
 ### _Ethics_ in the data life cycle and across the data ecosystem
 
-- For minimizing harm and maximizing benefit, aligning the data treatment with Indigenous ethical frameworks and rights affirmed in UNDRIP. 
+- For minimizing harm and maximizing benefit, aligning the data treatment with Indigenous ethical frameworks and rights affirmed in UNDRIP (United Nations Declaration on the Rights of Indigenous Peoples). 
 - For justice that rectifies power and resource imbalances affecting Indigenous and human rights expression.
-- For future use acknowledging the provenance and purpose and any limitations or obligations in secondary use, inclusive of issues of consent. 
+- For future use acknowledging the provenance and purpose and any limitations or obligations in secondary use, including issues of consent. 
+
+::::::::::::::::::::::::::::::::::::: callout
 
 ### Overall...
 
@@ -293,6 +295,10 @@ The CARE principles empower underrepresented individuals and communities to acti
 - Embracing and adhering to existing tribal and Indigenous data governance protocols, respecting established mechanisms for data management and sharing.
 
 - Providing support to Indigenous scholars within communities and academia, involving them in decision-making, co-authorship, and grant review processes to leverage their unique expertise and perspectives.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
