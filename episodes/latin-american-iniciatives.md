@@ -23,14 +23,14 @@ After attending this training, participants will be able to:
 
 ## Introduction
 
-In this episode, we will delve into the landscape of Open Science in Latin America. We'll highlight the region's contributions while addressing the challenges it encounters on the journey towards a more inclusive scientific community. Our focus is on understanding strategies and collaborations implemented in Latin America to make science more inclusive and equitable.
+In this episode, we will delve into the landscape of Open Science in Latin America. We will highlight the region's contributions while addressing the challenges it encounters on the journey towards a more inclusive scientific community. Our focus is on understanding strategies and collaborations implemented in Latin America to make science more inclusive and equitable.
 
 
 ## Open science in Latin America
 
 ### UNESCO's Open Science Recommendation for Latin America and the Caribbean
 
-The ministers of Science, Technology, and Innovation from Argentina, Colombia, Cuba, Honduras, Mexico, Nicaragua, and Venezuela — with the support of the United Nations Educational, Scientific, and Cultural Organization (UNESCO) - participated in the regional launch of the UNESCO recommendation on Open Science from Latin America and the Caribbean.
+The ministers of Science, Technology, and Innovation from Argentina, Colombia, Cuba, Honduras, Mexico, Nicaragua, and Venezuela participated in the regional launch of the UNESCO recommendation on Open Science from Latin America and the Caribbean.
 They recognize knowledge as a human right and, therefore, a common good of the people that should be at the service of humanity's needs. Because of this, they seek to challenge the monopoly of modern science by taking actions that: 
 
 -	Advocate for sciences that prioritize citizenship, sustainability, social inclusion, and the self-determination of the people.
@@ -42,6 +42,7 @@ They recognize knowledge as a human right and, therefore, a common good of the p
 -	Provide equitable access to quality education, scientific knowledge, and socially relevant technologies.
 
 -	Ensure equal access to scientific processes and decision-making for achieving gender equality and promoting the inclusion of the LGBTQ+ community. 
+
 -	Strengthening mechanisms for academic mobility and participation in open science, for women, young people, and ethnic groups.
 
 ### Open access
@@ -67,7 +68,14 @@ The federated network of institutional repositories of scientific publications (
 
 ### Open access national systems
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+You may mention that the participants can find a list of open access national systems from Latin America in the website of the lesson. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Here are some examples of open access national systems from different Latin American countries:
+
 
 **Argentina**
 - [National System of Digital Repositories](https://repositoriosdigitales.mincyt.gob.ar/) 
@@ -106,6 +114,7 @@ Here are some examples of open access national systems from different Latin Amer
 
 ### Non-commercial open access systems to journals published in the region
 
+These platforms are designed to showcase and promote research published in specific regions, often emphasizing non-commercial, open access principles to ensure widespread access to knowledge. They play a crucial role in increasing the visibility and impact of research from their respective regions.
 
 - [**Redalyc**](https://redalyc.org/) offers a vast collection of scientific journals in Spanish and Portuguese, which ensures that research from Latin America is not marginalized by language barriers. 
 
@@ -121,7 +130,7 @@ Here are some examples of open access national systems from different Latin Amer
 
 ## DISCUSSION: 
 
-(In groups, 15 minutes) What actions can you take as librarians to increase diversity in the research environment? How can you increase the participation of Latin researchers or research groups? 
+(In groups, 15 minutes) What actions could you take as librarians to increase diversity in the research environment? How could you increase the participation of Latin researchers or research groups? 
 
 Share your answers on the collaborative document.
 
@@ -130,7 +139,7 @@ Share your answers on the collaborative document.
 ### Communities of practice related to open science
 
 Over the years, Latin America has seen a substantial growth in communities of practice. These groups are self-organized and self-sustained gatherings of individuals bound by a common interest or passion, learning and improving collectively through regular interaction (Etienne and Beverly Wenger-Trayne, 2015). 
-In Latin America, many of such communities focus specifically on bridging the gender gap in STEM (Science, Technology, Engineering, and Mathematics), on imparting skills related to computational tools, or on educating about open science tools and practices. While institutional approaches play a crucial role in setting policies and frameworks, leveraging the strengths of communities of practice may enhance the dissemination and adoption of open science practices at a more personal, relatable, and community-driven level. Some of these strengths are:
+In Latin America, many of such communities focus specifically on bridging the gender gap in STEM (Science, Technology, Engineering, and Mathematics), on imparting skills related to computational tools, or on educating about open science tools and practices. While institutional approaches play a crucial role in setting policies and frameworks, leveraging the strengths of communities of practice may enhance the dissemination and adoption of open science at a more personal, relatable, and community-driven level. Some of these strengths are:
 
 - Bottom-Up Approach:
 Communities of practice are driven by individuals who are genuinely passionate about the subject matter. This grassroots involvement ensures a more organic and authentic dissemination of open science principles, engaging individuals on a personal level.
@@ -149,21 +158,15 @@ Communities of practice are agile and adaptable to changing circumstances, techn
 
 Some of these communities are:
 
-[**Metadocencia**](https://www.metadocencia.org/) works to make the production, communication, and application of scientific and technical knowledge equitable globally. MetaDocencia is an international community of researchers and educators dedicated to equipping individuals and organizations from Spanish-speaking regions and beyond by providing open science resources, delivering professional development training, and supporting infrastructure design and implementation. We are convinced that elevating scientific and technical capacity in Latin America will increase equity more broadly in society and accelerate innovation across the globe. 
-
-With [OLS](https://openlifesci.org/), [2i2c](https://2i2c.org/) and the support of NASA, MetaDocencia joins the initiative to transform science and technology to open practices. To help build a culture of open science, NASA is promoting the [Open-Source Science Initiative (OSSI)](https://www.nasa.gov/centers-and-facilities/marshall/nasa-boosts-open-science-through-innovative-training/), a comprehensive program of activities to support the advancement of science toward openness. As part of this program, MetaDocencia will contribute with its experience in training, the scientific expertise of its community, and its Spanish-language competence and contextualization knowldege to work with Spanish-speaking scientific and technical communities.
+[**Metadocencia**](https://www.metadocencia.org/) is an international community of researchers and educators dedicated to equipping individuals and organizations from Spanish-speaking regions and beyond by providing open science resources, delivering professional development training, and supporting infrastructure design and implementation.  This community works to make the production, communication, and application of scientific and technical knowledge equitable globally. 
 
 [**Latin American Open Data Initiative (ILDA)**](https://idatosabiertos.org/) promotes inclusive development, public and social innovation, and open knowledge through openness, the use of public data, and the active participation of the communities involved in Latin America.
 
 [**Conectorial**](https://conectorial.netlify.app/) is a non-profit community of open access journal publishers and research professionals dedicated to developing resources and means to foster scientific production and promote the growth of Open Access journals in Latin America. It provides a space where people related to the edition, management, and promotion of scientific Open Access journals, as well as research and publication of articles can meet to exchange knowledge.
 
+### Overall ..
+
 The collaborative environment fostered by communities of practice not only facilitates the emergence of research projects but also amplifies their visibility and relevance. By encouraging the exchange of knowledge and experiences among experts and passionate professionals, these communities create a fertile ground for the incubation and execution of innovative ideas. Moreover, by providing a space for interdisciplinary collaboration, they allow diverse disciplines to converge and mutually enrich one another, thus enhancing the quality and impact of research projects. This interactive collaboration benefits not only those directly involved but also contributes to the advancement of knowledge and the progress of society as a whole.
-
-There are some examples of projects fostered by the participation in communities of practice:
-
-[Mapping open-science communities, organizations, and events in Latin America](https://ciencia-abierta-en-latinoamerica.netlify.app/). Motivated by the need for a centralized hub of information useful not only to us but that could potentially help other individuals and communities. So we decided to create a repository that collects and centralizes open resources with a focus on Latin America, such as communities, events, workshops, and funders. 
-
-You can find more information about [Latin American communities of practice] (https://www.metadocencia.org/en/post/communities-of-practice-la/).
 
 
 ::::::::::::::::::::::::::::::::::::: challenge 
@@ -183,5 +186,6 @@ You can find more information about [Latin American communities of practice] (ht
 - For fostering the implementation of open practices, the institutions need to reevaluate policies regarding publication rewards, emphasizing the need to shift towards an evaluation centered on social relevance rather than impact factor metrics.
 
 - Community-driven open science initiatives contribute to a more organic and authentic dissemination of open science principles. They facilitate inclusivity, peer learning, and tailored initiatives, making open science more accessible and relatable at a community level.
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
