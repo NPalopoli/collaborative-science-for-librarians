@@ -69,7 +69,7 @@ Librarians play a crucial role in improving digital accessibility by providing s
 
 - **Transcripts** for video and audio content should be available. Transcripts provide a written version of spoken content, making it accessible to those who prefer to read or need an alternative format.
 
-#### There are different ways in which librarian's can contribute to enhance accessibility for researchers:
+#### There are different ways in which librarians can contribute to enhance accessibility for researchers:
 
 - Teach about digital accessibility best practices. 
 
